@@ -42,3 +42,5 @@ Produci un unico file .srt con lo stesso nome dell'originale, sostituendo _eng c
 Nessuna riga deve contenere testo inglese non tradotto (a eccezione di nomi, mosse e termini elencati sopra).
 Nessun tag {\anX} deve essere visibile nel testo dei dialoghi.
 Controlla due volte che ogni riga di dialogo sia in italiano prima di consegnare.
+
+Il file deve stare nella cartella "translations", nella sottocartella "wano".

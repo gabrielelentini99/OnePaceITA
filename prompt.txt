@@ -45,3 +45,5 @@ Controlla due volte che ogni riga di dialogo sia in italiano prima di consegnare
 Assicurati di tradurre i file completi, ci sono stati casi in cui la traduzione del file in italiano si è
 fermata prima rispetto a quella inglese.
 Il file deve stare nella cartella "translations", nella sottocartella "wano".
+Controlla anche su internet la terminologia di One Piece, i nomi particolari ad es. "Nove foderi rossi", "Frutti Smile", "Beast Pirates" ecc.
+come vanno tradotti. Se necessario creaiamo un dizionario locale da riutilizzare per le prossime traduzioni.

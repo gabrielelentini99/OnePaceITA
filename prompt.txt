@@ -28,6 +28,7 @@ Tutti i dialoghi in inglese.
 "Soul King" → "Soul King" (non tradurre).
 "Pirate King" → "Re dei Pirati".
 Titoli narrativi degli episodi (es. "One Last Thing" → "Un'Ultima Cosa").
+Sea Stone => Pietra Marina, Nine Red Scabbars => Nove Foderi Rossi.
 
 STILE:
 
@@ -35,6 +36,7 @@ Italiano naturale e scorrevole, adatto a sottotitoli (frasi brevi e dirette).
 Mantieni il tono dell'originale: rabbia, urgenza, comicità, emozione.
 Usa il "voi" per il plurale nelle situazioni di rispetto/gerarchia dei pirati di Big Mom.
 Le esclamazioni vanno adattate: "Dammit!" → "Maledizione!", "You bastards!" → "Bastardi!", "Hurry up!" → "Sbrigati!"
+
 
 OUTPUT:
 

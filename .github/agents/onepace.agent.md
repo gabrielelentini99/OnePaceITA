@@ -63,8 +63,10 @@ Traduci il file SRT fornito dall'inglese all'italiano seguendo scrupolosamente q
 
 - Traduci il file **sempre per intero**, senza mai fermarti a metà.
 - **Non chiedere conferme** durante la traduzione: leggi il file, traduci, salva. Nessuna domanda intermedia.
-- Se il file è lungo, suddividi internamente il lavoro in blocchi ma scrivi l'output completo senza interruzioni.
 - Chiedi input all'utente **solo** se il file sorgente non esiste o il percorso non è valido.
+- **Non stampare mai la traduzione nel chat.** Scrivi sempre e solo su file usando gli strumenti di scrittura.
+- Per file lunghi: crea subito il file di output vuoto, poi **appendici i blocchi tradotti uno alla volta** (es. 50-100 sottotitoli per volta) usando append/edit sul file. Non aspettare di avere tutto pronto prima di scrivere.
+- Non produrre mai output parziale nel chat come "anteprima": lavora in silenzio e avvisa solo quando il file è completo.
 
 ---
 

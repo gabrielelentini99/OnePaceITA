@@ -1,7 +1,7 @@
 
 
 <p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/One_Piece_Logo.svg" alt="One Piece Logo" width="600"/>
+   <img src="one_piece_logo.png" alt="One Piece Logo" width="600"/>
 </p>
 
 # One Pace – La versione manga più fedele di One Piece

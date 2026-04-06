@@ -57,9 +57,6 @@ Chiunque abbia passione per One Piece e conoscenze di inglese e italiano può ai
 **Serve saper usare Git?**
 No, ma se vuoi puoi inviare le traduzioni anche via email o altri canali concordati.
 
-**Come contattare il team?**
-Apri una issue su GitHub, oppure contatta il responsabile del progetto: gabriele.lentini99@gmail.com
-
 **Posso proporre miglioramenti agli script?**
 Certo! Ogni contributo tecnico è benvenuto.
 

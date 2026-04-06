@@ -87,4 +87,4 @@ Opzioni utili:
 
 ## Contatti
 
-Per domande, suggerimenti o per unirti al progetto, apri una issue o contatta il responsabile (aggiungere qui email/Discord/Telegram se disponibile).
+Per domande, suggerimenti o per unirti al progetto, apri una issue o contatta il responsabile: gabriele.lentini99@gmail.com

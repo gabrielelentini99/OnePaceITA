@@ -1,4 +1,9 @@
 
+
+<p align="center">
+   <img src="onepiece_logo.png" alt="One Piece Logo" width="600"/>
+</p>
+
 # One Pace – La versione manga più fedele di One Piece
 
 **One Pace** è un progetto collaborativo che mira a ricreare l’esperienza di One Piece seguendo fedelmente il manga originale di Eiichiro Oda. L’anime di One Piece, pur essendo molto amato, contiene numerosi filler, scene allungate e aggiunte non canoniche che rallentano la narrazione. One Pace elimina questi elementi, offrendo una versione più scorrevole, coerente e fedele al manga.

@@ -1,1357 +1,1689 @@
 1
+00:01:41,710 --> 00:01:45,630
+Desidero esplorare il mondo! È il mio sogno!
+
+2
+00:01:46,420 --> 00:01:48,090
+Portatemi in mare con voi!
+
+3
+00:01:48,670 --> 00:01:50,920
+Partiremo immediatamente!
+
+4
+00:01:50,920 --> 00:01:53,800
+– Assolutamente no!
+– Assolutamente no!
+
+5
+00:01:54,260 --> 00:01:55,390
+State zitti!
+
+6
+00:01:56,010 --> 00:01:58,220
+Desidero lasciare questa terra opprimente!
+
+7
+00:01:58,930 --> 00:02:01,680
+Voglio vedere un mondo libero!
+
+8
+00:02:03,190 --> 00:02:05,560
+Vi prego! Lasciatemi venire con voi!
+
+9
+00:02:05,560 --> 00:02:08,360
+Lord Oden! Alzate la testa!
+
+10
+00:02:08,360 --> 00:02:11,530
+Maledetto...! Non stavi forse cercando
+di uccidere il nostro capitano?!
+
+11
+00:02:11,530 --> 00:02:12,740
+Vi imploro!
+
+12
+00:02:12,740 --> 00:02:15,570
+Basta così! Quest'uomo è un pirata!
+
+13
+00:02:16,410 --> 00:02:17,530
+È feccia!
+
+14
+00:02:17,530 --> 00:02:19,490
+Lascia immediatamente questo paese!
+
+15
+00:02:20,870 --> 00:02:23,540
+Non potrei neanche se lo volessi.
+
+16
+00:02:24,670 --> 00:02:29,460
+Siamo bloccati qui.
+Il viaggio ha distrutto la nostra nave.
+
+17
+00:02:29,840 --> 00:02:31,340
+Che sfortuna!
+
+18
+00:02:31,340 --> 00:02:32,840
+Ripariamola subito–
+
+19
+00:02:34,340 --> 00:02:35,340
+Maledizione!
+
+20
+00:02:35,340 --> 00:02:37,680
+Se restano qui, Lord Oden...
+
+21
+00:02:38,220 --> 00:02:40,560
+Riparatela e andatevene!
+
+22
+00:02:41,970 --> 00:02:44,560
+Sì, è esattamente quello che intendo fare.
+
+23
+00:02:49,690 --> 00:02:50,440
+Bene!
+
+24
+00:02:50,440 --> 00:02:52,780
+Ehi! Portate quello laggiù!
+
+25
+00:02:53,570 --> 00:02:54,450
+Ehi!
+
+26
+00:02:54,450 --> 00:02:56,610
+Voi-gara!
+
+27
+00:02:57,030 --> 00:02:59,030
+È ora di mangiare!
+
+28
+00:02:59,780 --> 00:03:02,620
+Forza! Mangiate!
+
+29
+00:03:04,330 --> 00:03:05,790
+Sembra buono!
+
+30
+00:03:08,630 --> 00:03:11,000
+Non ho mai assaggiato nulla di simile!
+
+31
+00:03:11,000 --> 00:03:13,050
+Questo è il sapore di un paese straniero!
+
+32
+00:03:13,050 --> 00:03:15,010
+È alcol fatto con l'uva.
+
+33
+00:03:15,010 --> 00:03:18,720
+C'è così tanto là fuori
+da scoprire, vero?!
+
+34
+00:03:20,010 --> 00:03:21,760
+Portatemi in mare con voi!
+
+35
+00:03:21,760 --> 00:03:24,770
+Mostratemi le meraviglie sconosciute di questo mondo!
+
+36
+00:03:24,770 --> 00:03:25,390
+Eh?
+
+37
+00:03:25,390 --> 00:03:29,610
+Non sei il tipo da servire qualcun altro!
+
+38
+00:03:29,610 --> 00:03:31,820
+Se tu salissi a bordo...
+
+39
+00:03:33,570 --> 00:03:36,990
+Quando persone egoiste come te si uniscono...
+
+40
+00:03:37,490 --> 00:03:39,660
+che ne sarà di quella ciurma?
+
+41
+00:03:42,660 --> 00:03:45,410
+Troppo caldo!
+
+42
+00:03:47,170 --> 00:03:51,670
+L'ho imparato a mie spese con la mia ultima ciurma.
+
+43
+00:03:54,670 --> 00:03:56,590
+Puoi procurarti la tua nave.
+
+44
+00:03:58,340 --> 00:04:01,100
+Se avessi potuto, l'avrei già fatto!
+
+45
+00:04:01,100 --> 00:04:03,850
+I miei numerosi tentativi
+di salpare sono tutti falliti!
+
+46
+00:04:03,850 --> 00:04:07,100
+Non possiedo alcuna abilità di navigazione!
+
+47
+00:04:07,520 --> 00:04:10,520
+Allora rinuncia e fai il tuo dovere di daimyo!
+
+48
+00:04:10,520 --> 00:04:13,070
+Questo paese è così opprimente!
+
+49
+00:04:13,070 --> 00:04:15,440
+Non lo sopporto! Portatemi con voi!
+
+50
+00:04:15,440 --> 00:04:17,110
+Barbabianca!
+
+51
+00:04:17,110 --> 00:04:20,780
+Le leggi di Wano proibiscono severamente
+ai cittadini di lasciare il paese!
+
+52
+00:04:21,450 --> 00:04:23,580
+Con il suo attuale status di daimyo di Kuri,
+
+53
+00:04:23,580 --> 00:04:26,950
+sarebbe imperdonabile
+se Lord Oden infrangesse quel tabù.
+
+54
+00:04:26,950 --> 00:04:28,660
+Non dirgli queste cose!
+
+55
+00:04:30,170 --> 00:04:31,790
+Bene a sapersi!
+
+56
+00:04:31,790 --> 00:04:34,050
+Allora siamo d'accordo!
+
+57
+00:04:34,050 --> 00:04:37,090
+Non ho alcuna intenzione di portarlo con me!
+
+58
+00:04:37,090 --> 00:04:40,760
+Non mi importa delle leggi di questo paese!
+
+59
+00:04:40,760 --> 00:04:46,270
+Kuri ha bisogno di Lord Oden. Anzi,
+tutto Wano ha bisogno che lui resti!
+
+60
+00:04:48,060 --> 00:04:50,440
+Tieni a freno la lingua, Kin'emon!
+
+61
+00:04:50,730 --> 00:04:53,900
+Fammi salire sulla tua nave, Barbabianca!
+
+62
+00:04:53,900 --> 00:04:56,110
+No!
+
+63
+00:04:56,110 --> 00:04:59,530
+Andrò in mare!
+
+64
+00:04:59,530 --> 00:05:03,700
+Questo paese è così opprimente!
+Non voglio tornare a casa!
+
+65
+00:05:04,240 --> 00:05:06,290
+Slegatemi!
+
+66
+00:05:06,290 --> 00:05:07,620
+Smettetela!
+
+67
+00:05:11,750 --> 00:05:13,210
+Aprite!
+
+68
+00:05:15,090 --> 00:05:16,750
+Non cederò!
+
+69
+00:05:20,220 --> 00:05:21,840
+Aspettatemi!
+
+70
+00:05:22,220 --> 00:05:24,390
+Barbabianca!
+
+71
+00:05:27,600 --> 00:05:30,020
+Solo cinque isole in tutto il mondo?!
+
+72
+00:05:32,690 --> 00:05:34,480
+Sei completamente fuori strada!
+
+73
+00:05:34,480 --> 00:05:35,480
+– Cosa?!
+– Cosa?!
+
+74
+00:05:35,480 --> 00:05:39,900
+Ce ne sono almeno 10 o 20 milioni!
+
+75
+00:05:39,900 --> 00:05:40,610
+– Cosa?!
+– Cosa?!
+
+76
+00:05:41,030 --> 00:05:43,660
+Non sapete proprio nulla?
+
+77
+00:05:43,660 --> 00:05:46,950
+È per questo che le avventure sono divertenti!
+Accendono l'immaginazione!
+
+78
+00:05:47,870 --> 00:05:50,000
+Il mondo è grande!
+
+79
+00:05:50,580 --> 00:05:54,540
+Nessuno è in grado di contare quante isole ci siano!
+
+80
+00:06:05,340 --> 00:06:06,300
+Vai da qualche parte?
+
+81
 00:06:07,560 --> 00:06:08,430
 Izo!
 
-2
+82
 00:06:08,430 --> 00:06:10,430
 Dove state andando, Lord Oden?
 
-3
+83
 00:06:10,430 --> 00:06:12,310
 Mi hai fatto prendere un colpo!
 
-4
+84
 00:06:12,310 --> 00:06:14,190
 Tuttavia, insisto che rispondiate.
 
-5
+85
 00:06:15,810 --> 00:06:18,020
 Mi libererò quando mi pare!
 
-6
+86
 00:06:18,020 --> 00:06:20,570
 Non sono forse il daimyo?
 
-7
+87
 00:06:20,570 --> 00:06:22,190
 Vi chiedo perdono.
 
-8
+88
 00:06:22,190 --> 00:06:23,820
 La notte può essere fredda.
 
-9
+89
 00:06:25,700 --> 00:06:27,700
 Sono sul punto di scoppiare...
 
-10
+90
 00:06:31,660 --> 00:06:34,670
 Mi dispiace sgattaiolare via
 da Oden nel cuore della notte.
 
-11
+91
 00:06:37,000 --> 00:06:41,630
 La sua forza da sola lo avrebbe reso
 una bella risorsa.
 
-12
+92
 00:06:42,300 --> 00:06:46,840
 E Babbo sembrava molto affezionato a lui...
 
-13
+93
 00:06:46,840 --> 00:06:48,890
 Eh?! Di cosa stai parlando?!
 
-14
+94
 00:06:49,220 --> 00:06:51,220
 Non fare il finto tonto!
 
-15
+95
 00:06:56,100 --> 00:06:59,860
 Anche se mi fosse piaciuto,
 
-16
+96
 00:07:00,360 --> 00:07:03,780
 sarebbe stato come rapire un membro della nobiltà...
 
-17
+97
 00:07:04,240 --> 00:07:06,240
 Ne avremmo pagato le conseguenze.
 
-18
+98
 00:07:06,700 --> 00:07:09,160
 Hai lasciato il forziere come ringraziamento?
 
-19
+99
 00:07:09,160 --> 00:07:12,870
 Ci hanno dato molto cibo e legname.
 
-20
+100
 00:07:18,750 --> 00:07:19,840
 Aspetta, ma che diavolo?!
 
-21
+101
 00:07:19,840 --> 00:07:23,260
 Sapevo che l'avresti fatto...
 
-22
+102
 00:07:23,260 --> 00:07:25,420
 Barbabianca!
 
-23
+103
 00:07:26,180 --> 00:07:27,010
 Oden?!
 
-24
+104
 00:07:27,010 --> 00:07:29,720
 Fatemi salire sulla nave!
 
-25
+105
 00:07:29,720 --> 00:07:34,810
 Lord Oden! Sapevo che l'avresti fatto!
 
-26
+106
 00:07:34,810 --> 00:07:35,890
 Non lo permetterò!
 
-27
+107
 00:07:38,850 --> 00:07:40,020
 Quell'idiota!
 
-28
+108
 00:07:40,820 --> 00:07:42,020
 Fatemi venire!
 
-29
+109
 00:07:42,020 --> 00:07:44,320
 Mostratemi il mondo!
 
-30
+110
 00:07:44,320 --> 00:07:46,150
 Dobbiamo tornare indietro!
 
-31
+111
 00:07:46,150 --> 00:07:48,570
 Voi siete il prossimo shogun!
 
-32
+112
 00:07:48,570 --> 00:07:50,620
 È un tipo selvaggio!
 
-33
+113
 00:07:50,620 --> 00:07:52,410
 È stato un piacere conoscerti, Oden!
 
-34
+114
 00:07:52,410 --> 00:07:53,950
 Rassegnati e torna a casa.
 
-35
+115
 00:07:53,950 --> 00:07:55,330
 Aspetta, Marco!
 
-36
+116
 00:07:55,330 --> 00:07:56,080
 Cosa?!
 
-37
+117
 00:07:56,080 --> 00:08:00,500
 Portate dentro quello che è venuto dopo di lui!
 
-38
+118
 00:08:02,800 --> 00:08:04,340
 Che seccatura...
 
-39
+119
 00:08:04,760 --> 00:08:07,590
 Voi altri, aggrappatevi a qualcosa!
 
-40
+120
 00:08:07,590 --> 00:08:09,800
 Non è il momento di preoccuparsi per gli altri!
 
-41
+121
 00:08:10,760 --> 00:08:14,140
 Stiamo per precipitare dalle cascate!
 
-42
+122
 00:08:17,140 --> 00:08:19,350
 Oh no!
 
-43
+123
 00:08:24,610 --> 00:08:26,530
 Non è possibile!
 
-44
+124
 00:08:26,860 --> 00:08:29,070
 Lord Oden non c'è più!
 
-45
+125
 00:08:29,070 --> 00:08:31,870
 Anche la nave di Barbabianca ha lasciato il porto!
 
-46
+126
 00:08:31,870 --> 00:08:34,200
 Temevo che sarebbe successo!
 
-47
+127
 00:08:34,830 --> 00:08:38,580
 Il mio fratellone non c'è più!
 E nemmeno Canetto e Gattino!
 
-48
+128
 00:08:38,580 --> 00:08:40,580
 Non piangere, Okiku!
 
-49
+129
 00:08:40,580 --> 00:08:43,880
 Dovremmo cercarli prima
 di immaginare il peggio.
 
-50
+130
 00:08:44,210 --> 00:08:45,210
 D'accordo?
 
-51
+131
 00:08:45,210 --> 00:08:46,050
 D'accordo...
 
-52
+132
 00:08:46,420 --> 00:08:48,050
 Cercate ovunque!
 
-53
+133
 00:08:48,050 --> 00:08:50,130
 Rivoltate l'intero paese!
 
-54
+134
 00:08:58,890 --> 00:09:00,480
 Ehi, Barbabianca!
 
-55
+135
 00:09:00,480 --> 00:09:03,360
 Tirate su Lord Oden prima che muoia!
 
-56
+136
 00:09:03,360 --> 00:09:07,320
 Il futuro di Wano poggia sulle sue spalle!
 
-57
+137
 00:09:07,740 --> 00:09:11,530
 Non hai visto quante volte
 l'ho rifiutato, ragazzo?
 
-58
+138
 00:09:11,860 --> 00:09:15,330
 Ha scelto lui di lasciare il paese!
 
-59
+139
 00:09:15,330 --> 00:09:19,290
 Ora facciamo le cose a modo nostro.
 
-60
+140
 00:09:22,790 --> 00:09:24,590
 Maledizione!
 
-61
+141
 00:09:25,040 --> 00:09:26,170
 Vi prego!
 
-62
+142
 00:09:26,800 --> 00:09:32,720
 Non posso prendere a bordo un tipo pericoloso
 come lui e mettere in pericolo la mia famiglia.
 
-63
+143
 00:09:33,800 --> 00:09:36,430
 Se vuoi impedirlo,
 devi convincere lui.
 
-64
+144
 00:09:38,680 --> 00:09:40,640
 Ascolta, Oden!
 
-65
+145
 00:09:41,560 --> 00:09:43,190
 Tre giorni!
 
-66
+146
 00:09:43,190 --> 00:09:48,230
 Se riesci ad aggrapparti a quella catena
 per tre giorni, ti accoglierò a bordo!
 
-67
+147
 00:09:51,570 --> 00:09:54,370
 Lo giuri, Barbabianca?!
 
-68
+148
 00:09:54,950 --> 00:09:57,540
 Sì! Lo giuro!
 
-69
+149
 00:10:35,360 --> 00:10:37,700
 Oden è ancora lì?
 
-70
+150
 00:10:39,370 --> 00:10:41,120
 Sì...
 
-71
+151
 00:10:41,120 --> 00:10:42,960
 Ma non sembra in buone condizioni.
 
-72
+152
 00:10:43,540 --> 00:10:48,210
 L'acqua e gli urti gli hanno gonfiato
 il viso in modo irriconoscibile!
 
-73
+153
 00:10:48,210 --> 00:10:49,750
 Sembra che stia per scoppiare!
 
-74
+154
 00:10:49,750 --> 00:10:52,590
 Manca solo un'ora!
 
-75
+155
 00:10:52,590 --> 00:10:55,590
 Resisti, Oden!
 
-76
+156
 00:10:55,590 --> 00:10:57,220
 Ehi, perché lo stai incoraggiando?!
 
-77
+157
 00:10:58,010 --> 00:11:01,600
 Perché diventerà uno di noi
 se ce la fa, giusto?
 
-78
+158
 00:11:02,180 --> 00:11:04,640
 Oden diventerà il nostro compagno!
 
-79
+159
 00:11:07,900 --> 00:11:09,060
 Oden...
 
-80
+160
 00:11:09,570 --> 00:11:11,820
 diventerà nostro compagno di ciurma?
 
-81
+161
 00:11:17,030 --> 00:11:19,700
 Tieni duro, Oden!
 
-82
+162
 00:11:19,700 --> 00:11:23,370
 Forza, Oden!
 
-83
+163
 00:11:21,300 --> 00:11:23,370
 – Ce la puoi fare!
 – Ce la puoi fare!
 
-84
+164
 00:11:27,580 --> 00:11:30,250
 Non mollare, Oden!
 
-85
+165
 00:11:30,250 --> 00:11:32,090
 Resisti!
 
-86
+166
 00:11:33,920 --> 00:11:35,380
 Quei pagliacci...
 
-87
+167
 00:11:37,840 --> 00:11:43,520
 Non ti perdonerò mai per aver sottoposto
 il mio signore a questo, Barbabianca!
 
-88
+168
 00:11:47,690 --> 00:11:51,190
 Oden, continua così!
 
-89
+169
 00:11:51,190 --> 00:11:53,480
 Ancora un po'!
 
-90
+170
 00:11:51,190 --> 00:11:52,400
 Oden!
 
-91
+171
 00:11:53,480 --> 00:11:55,320
 Oden!
 
-92
+172
 00:11:56,280 --> 00:11:57,820
 Lord Oden!
 
-93
+173
 00:12:00,370 --> 00:12:01,410
 Lasciami!
 
-94
+174
 00:12:01,410 --> 00:12:02,950
 Toglimi le mani di dosso!
 
-95
+175
 00:12:13,670 --> 00:12:16,010
 È bellissima!
 
-96
+176
 00:12:16,010 --> 00:12:17,420
 E anche molto fine!
 
-97
+177
 00:12:18,380 --> 00:12:20,550
 Perché scappi, bellezza?!
 
-98
+178
 00:12:20,550 --> 00:12:24,930
 Non avevi detto che volevi
 che ti portassimo a Wano?!
 
-99
+179
 00:12:25,270 --> 00:12:27,230
 Vieni con noi.
 
-100
+180
 00:12:27,230 --> 00:12:29,140
 Non ti faremo del male!
 
-101
+181
 00:12:29,140 --> 00:12:30,100
 Lo so.
 
-102
+182
 00:12:30,980 --> 00:12:33,320
 Quella è una nave degli schiavi!
 
-103
+183
 00:12:33,650 --> 00:12:36,110
 Se mi fate del male, il mio prezzo calerà!
 
-104
+184
 00:12:36,610 --> 00:12:40,200
 Non posso credere di essere stata ingannata
 da voi delinquenti dall'aria malvagia!
 
-105
+185
 00:12:40,200 --> 00:12:41,660
 Quanto sono stata ingenua!
 
-106
+186
 00:12:44,660 --> 00:12:46,500
 Dietro di te c'è solo mare!
 
-107
+187
 00:12:46,500 --> 00:12:48,160
 Non hai dove scappare!
 
-108
+188
 00:12:48,500 --> 00:12:50,080
 Arrenditi!
 
-109
+189
 00:12:50,080 --> 00:12:52,460
 Sbagliato! C'è un posto dove posso scappare!
 
-110
+190
 00:12:52,460 --> 00:12:57,090
 L'unico posto dove andrai
 è sulla nostra nave!
 
-111
+191
 00:12:57,090 --> 00:12:59,590
 Ti faremo divertire!
 
-112
+192
 00:13:01,090 --> 00:13:02,470
 Ci siamo.
 
-113
+193
 00:13:02,470 --> 00:13:04,720
 Salterò di nuovo nel futuro.
 
-114
+194
 00:13:15,110 --> 00:13:16,230
 Cosa?!
 
-115
+195
 00:13:16,650 --> 00:13:19,030
 C-C-Cos'è quella roba?!
 
-116
+196
 00:13:28,540 --> 00:13:31,710
 È un mostro marino!
 
-117
+197
 00:13:33,830 --> 00:13:38,340
 Ho sentito la voce di una donna
 che gridava aiuto.
 
-118
+198
 00:13:38,340 --> 00:13:39,170
 Un mostro?!
 
-119
+199
 00:13:43,220 --> 00:13:45,010
 State bene?!
 
-120
+200
 00:13:45,010 --> 00:13:46,560
 Cosa?!
 
-121
+201
 00:13:46,560 --> 00:13:49,270
 Siete illesa, vero?
 
-122
+202
 00:14:09,660 --> 00:14:12,290
 Voi siete... al sicuro...?
 
-123
+203
 00:14:12,290 --> 00:14:15,330
 Cosa? Oh, sì.
 
-124
+204
 00:14:15,330 --> 00:14:16,420
 Significa...
 
-125
+205
 00:14:16,790 --> 00:14:19,510
 che siete venuto a salvarmi?!
 
-126
+206
 00:14:20,920 --> 00:14:22,670
 Infatti...!
 
-127
+207
 00:14:25,300 --> 00:14:28,470
 State bene... Grazie al cielo...!
 
-128
+208
 00:14:34,520 --> 00:14:36,560
 S-S-State bene?!
 
-129
+209
 00:14:37,230 --> 00:14:39,110
 Restate con me!
 
-130
+210
 00:14:39,110 --> 00:14:41,070
 Vi prego, restate con me!
 
-131
+211
 00:14:45,160 --> 00:14:46,820
 Oden non c'è più!
 
-132
+212
 00:14:47,200 --> 00:14:48,830
 Dove sarà andato?!
 
-133
+213
 00:14:48,830 --> 00:14:50,080
 Maledizione!
 
-134
+214
 00:14:50,080 --> 00:14:52,450
 Mancavano solo pochi minuti!
 
-135
+215
 00:14:52,450 --> 00:14:55,290
 Peccato che non abbia resistito più a lungo.
 
-136
+216
 00:14:55,620 --> 00:14:59,380
 Gliene hai fatte davvero passare, Babbo!
 
-137
+217
 00:14:59,380 --> 00:15:01,090
 Ha dato il meglio!
 
-138
+218
 00:15:01,510 --> 00:15:03,300
 Perché non potevi andarci piano con lui?!
 
-139
+219
 00:15:03,300 --> 00:15:07,590
 Lord Oden! Lord Oden!
 
-140
+220
 00:15:07,590 --> 00:15:08,850
 Ehi, fermo!
 
-141
+221
 00:15:08,850 --> 00:15:09,970
 Calmati!
 
-142
+222
 00:15:08,180 --> 00:15:09,510
 Lasciami!
 
-143
+223
 00:15:09,970 --> 00:15:16,150
 Lord Oden! Lord Oden!
 
-144
+224
 00:15:27,360 --> 00:15:29,120
 Si sta riprendendo velocissimo!
 
-145
+225
 00:15:29,780 --> 00:15:32,490
 Prima non mi ero nemmeno accorto che fosse umano.
 
-146
+226
 00:15:50,760 --> 00:15:55,020
 Wow! A quanto pare non sono riuscito
 ad unirmi alla ciurma di Barbabianca!
 
-147
+227
 00:15:55,020 --> 00:15:59,060
 Pensavo che stando a bordo
 avrei potuto visitare molte terre,
 
-148
+228
 00:15:59,060 --> 00:16:00,440
 ma non importa!
 
-149
+229
 00:16:06,700 --> 00:16:11,330
 Invece, ho potuto mettere piede
 su un'isola straniera per la prima volta!
 
-150
+230
 00:16:11,330 --> 00:16:13,870
 Ce l'ho fatta!
 
-151
+231
 00:16:13,870 --> 00:16:14,950
 Guardatelo.
 
-152
+232
 00:16:15,450 --> 00:16:16,910
 Sembra felice!
 
-153
+233
 00:16:16,910 --> 00:16:20,040
 Sono finalmente uscito da Wano!
 
-154
+234
 00:16:20,040 --> 00:16:22,670
 La mia avventura è cominciata!
 
-155
+235
 00:16:22,670 --> 00:16:23,800
 Bene!
 
-156
+236
 00:16:25,210 --> 00:16:27,010
 Smettila di saltare così!
 
-157
+237
 00:16:27,010 --> 00:16:30,390
 Ti stai ancora riprendendo!
 
-158
+238
 00:16:32,010 --> 00:16:35,310
 Signorina! Vi siete presa cura di me?
 
-159
+239
 00:16:35,310 --> 00:16:37,020
 Oh, sì!
 
-160
+240
 00:16:37,640 --> 00:16:38,890
 Grazie mille!
 
-161
+241
 00:16:40,400 --> 00:16:41,400
 Ma figurati!
 
-162
+242
 00:16:41,400 --> 00:16:43,650
 Dopotutto, mi avete salvato voi per primo!
 
-163
+243
 00:16:43,650 --> 00:16:45,940
 Grazie di cuore!
 
-164
+244
 00:16:45,940 --> 00:16:49,740
 Davvero? Sono sollevato nel vedervi stare bene.
 
-165
+245
 00:16:49,740 --> 00:16:53,200
 A parte questo, avete detto
 che venite da Wano?
 
-166
+246
 00:16:54,240 --> 00:16:55,990
 Sì, avete sentito bene.
 
-167
+247
 00:16:56,620 --> 00:16:57,910
 Ora che ci penso,
 
-168
+248
 00:16:57,910 --> 00:17:02,170
 ho viaggiato fin qui in una terra straniera,
 ma guardate quell'abito!
 
-169
+249
 00:17:02,170 --> 00:17:05,250
 Speravo di vedere qualche
 indumento esotico qui fuori!
 
-170
+250
 00:17:06,630 --> 00:17:11,760
 In verità, ho sempre desiderato
 visitare Wano fin da quando ero piccola!
 
-171
+251
 00:17:12,720 --> 00:17:17,310
 Potreste riportarmi là con voi?!
 
-172
+252
 00:17:17,310 --> 00:17:19,690
 Oh... Ehm...
 
-173
+253
 00:17:20,480 --> 00:17:22,100
 Oh, beh...
 
-174
+254
 00:17:22,100 --> 00:17:23,940
 Sembra seccato...
 
-175
+255
 00:17:28,900 --> 00:17:31,030
 Eccola!
 
-176
+256
 00:17:34,280 --> 00:17:37,120
 Contiamo su di te, Capitano Karma!
 
-177
+257
 00:17:43,170 --> 00:17:44,670
 Sei braccia?!
 
-178
+258
 00:17:44,670 --> 00:17:45,920
 Che interessante!
 
-179
+259
 00:17:45,920 --> 00:17:48,670
 Non si vedono persone così a Wano!
 
-180
+260
 00:17:49,840 --> 00:17:53,720
 Ehi, dov'è il mostro che avete visto?!
 
-181
+261
 00:17:53,720 --> 00:17:56,050
 Cosa? D-Dovrebbe essere qui.
 
-182
+262
 00:17:56,050 --> 00:17:58,020
 È svanito nel nulla?!
 
-183
+263
 00:17:58,020 --> 00:18:01,730
 Dove può essere finito un mostro marino del genere?!
 
-184
+264
 00:18:03,100 --> 00:18:06,400
 Allora siete tornati?!
 
-185
+265
 00:18:06,400 --> 00:18:08,110
 Chi diavolo sei?!
 
-186
+266
 00:18:08,110 --> 00:18:10,400
 P-Perché fai come se ci conoscessi?!
 
-187
+267
 00:18:12,070 --> 00:18:14,280
 Di cosa state parlando?!
 
-188
+268
 00:18:14,820 --> 00:18:18,040
 Capisco! Vi siete ingaggiate una guardia del corpo!
 
-189
+269
 00:18:18,040 --> 00:18:21,290
 Le donne raffinate valgono bei prezzi!
 
-190
+270
 00:18:21,290 --> 00:18:23,960
 Venderemo entrambi!
 
-191
+271
 00:18:25,830 --> 00:18:26,840
 Dobbiamo scappare!
 
-192
+272
 00:18:27,340 --> 00:18:29,170
 Sono troppi!
 
-193
+273
 00:18:30,630 --> 00:18:33,340
 Questo è il mio primo combattimento all'estero.
 
-194
+274
 00:18:47,020 --> 00:18:50,480
 Sono i Pirati di Barbabianca!
 
-195
+275
 00:18:50,480 --> 00:18:55,160
 Quest'uomo, Karma, sarebbe diventato in seguito
 un alleato dei Pirati di Barbabianca,
 
-196
+276
 00:18:55,240 --> 00:18:59,240
 e avrebbe combattuto al loro fianco
 nella Guerra al Vertice.
 
-197
+277
 00:18:59,910 --> 00:19:02,040
 Sali a bordo, Oden!
 
-198
+278
 00:19:02,040 --> 00:19:03,080
 Cosa?
 
-199
+279
 00:19:03,080 --> 00:19:06,120
 Ma ho mollato la catena!
 
-200
+280
 00:19:07,420 --> 00:19:10,300
 Hai abbandonato il tuo sogno per rispondere
 al grido d'aiuto di una donna?
 
-201
+281
 00:19:11,670 --> 00:19:13,470
 Sei proprio un buono.
 
-202
+282
 00:19:14,340 --> 00:19:16,930
 Forza! Andiamo!
 
-203
+283
 00:19:21,140 --> 00:19:25,560
 Stiamo per vivere una grande avventura
 oltre i tuoi sogni più sfrenati,
 
-204
+284
 00:19:25,560 --> 00:19:27,730
 Fratellino!
 
-205
+285
 00:19:28,690 --> 00:19:31,190
 Siete sicuro, Bianchicchi?!
 
-206
+286
 00:19:32,610 --> 00:19:34,240
 Bianchicchi?!
 
-207
+287
 00:19:38,700 --> 00:19:41,870
 Si parte!
 
-208
+288
 00:19:50,500 --> 00:19:51,750
 Oden!
 
-209
+289
 00:19:51,750 --> 00:19:53,210
 Sono contento che tu stia bene!
 
-210
+290
 00:19:53,550 --> 00:19:56,430
 Bello rivederti!
 
-211
+291
 00:19:56,430 --> 00:19:57,760
 Siamo felici di averti con noi!
 
-212
+292
 00:20:00,890 --> 00:20:02,760
 Grazie a tutti!
 
-213
+293
 00:20:04,310 --> 00:20:06,690
 Babbo ti ha messo davvero alla prova!
 
-214
+294
 00:20:06,690 --> 00:20:08,190
 Puoi ben dirlo!
 
-215
+295
 00:20:08,190 --> 00:20:09,940
 Assolutamente!
 
-216
+296
 00:20:12,820 --> 00:20:14,780
 Z-Zucconi!
 
-217
+297
 00:20:15,320 --> 00:20:16,860
 L-Lord Oden!
 
-218
+298
 00:20:17,570 --> 00:20:19,820
 Sono lieto di vedervi sopravvissuto!
 
-219
+299
 00:20:19,820 --> 00:20:22,660
 Certo! Come vedete, sto benissimo!
 
-220
+300
 00:20:23,700 --> 00:20:25,500
 – Lord Oden!
 – Lord Oden!
 
-221
+301
 00:20:28,330 --> 00:20:30,670
 Inuarashi?! Nekomamushi?!
 
-222
+302
 00:20:31,880 --> 00:20:33,880
 Cosa ci fate qui?!
 
-223
+303
 00:20:33,880 --> 00:20:39,380
 Immaginavamo che voi-gara avreste trovato un modo
 per salpare, così ci siamo imbarcati di nascosto!
 
-224
+304
 00:20:39,380 --> 00:20:41,850
 Dove andate voi-gara, andiamo anche noi!
 
-225
+305
 00:20:42,260 --> 00:20:43,260
 Clandestini!
 
-226
+306
 00:20:43,720 --> 00:20:48,100
 Non avevi detto che non mi avresti mai perdonato?
 
-227
+307
 00:20:49,390 --> 00:20:51,860
 Avete intenzione di gettarmi
 in mare per quello?
 
-228
+308
 00:21:01,530 --> 00:21:03,200
 Solo se mi va.
 
-229
+309
 00:21:04,120 --> 00:21:05,240
 Ragazza!
 
-230
+310
 00:21:05,240 --> 00:21:06,370
 Come ti chiami?
 
-231
+311
 00:21:06,370 --> 00:21:08,410
 Oh, sì!
 
-232
+312
 00:21:09,160 --> 00:21:10,830
 Il mio nome è Toki!
 
-233
+313
 00:21:11,420 --> 00:21:12,830
 Ehm...
 
-234
+314
 00:21:12,830 --> 00:21:15,630
 Voglio andare a Wano!
 
-235
+315
 00:21:18,510 --> 00:21:20,510
 Sembra seccato!
 
-236
+316
 00:21:20,510 --> 00:21:25,430
 F-Farei qualsiasi cosa! Quindi, per favore!
 Lasciatemi restare su questa nave!
 
-237
+317
 00:21:25,430 --> 00:21:26,680
 Fai come vuoi!
 
-238
+318
 00:21:33,020 --> 00:21:39,740
 Intendo annotare tutto ciò che vedo
 e sento in questo viaggio nel mio diario di bordo.
 
-239
+319
 00:21:44,370 --> 00:21:45,700
 Nave nemica!
 
-240
+320
 00:21:45,700 --> 00:21:48,200
 Prepararsi alla battaglia!
 
-241
+321
 00:21:50,160 --> 00:21:52,080
 Eccomi! Eccomi!
 
-242
+322
 00:21:54,080 --> 00:21:55,130
 Ehi, aspetta!
 
-243
+323
 00:21:55,130 --> 00:21:56,170
 Fermo!
 
-244
+324
 00:21:56,170 --> 00:21:57,550
 – Oden!
 – Oden!
 
-245
+325
 00:22:10,060 --> 00:22:12,060
 Che ne dite?!
 
-246
+326
 00:22:12,690 --> 00:22:13,810
 L'ho affondata!
 
-247
+327
 00:22:13,810 --> 00:22:16,110
 Idiota! Cosa combini?!
 
-248
+328
 00:22:16,110 --> 00:22:18,320
 Come ti permetti di definirti pirata?!
 
-249
+329
 00:22:19,070 --> 00:22:21,820
 Non abbiamo avuto il tempo di saccheggiarla!
 
-250
+330
 00:22:22,530 --> 00:22:26,320
 Cose che non ho mai provato prima...
 
-251
+331
 00:22:28,330 --> 00:22:30,540
 Cos'è questo posto?!
 
-252
+332
 00:22:31,200 --> 00:22:33,420
 Edifici che non ho mai visto!
 
-253
+333
 00:22:33,420 --> 00:22:36,460
 Alberi che tremolano come gelatina!
 
-254
+334
 00:22:38,960 --> 00:22:40,380
 Oden, aspetta!
 
-255
+335
 00:22:40,380 --> 00:22:41,840
 Dobbiamo valutare la situazione!
 
-256
+336
 00:22:45,800 --> 00:22:47,800
 Questo mondo che non ho mai visto...
 
-257
+337
 00:22:52,890 --> 00:22:54,100
 Q-Quello è...?!
 
-258
+338
 00:22:56,980 --> 00:22:59,400
 – Oden!
 – Oden!
 
-259
+339
 00:23:00,860 --> 00:23:03,530
 Un freddo che non ho mai provato...
 
-260
+340
 00:23:14,960 --> 00:23:17,880
 Un caldo che non ho mai provato...
 
-261
+341
 00:23:17,880 --> 00:23:19,630
 – Oden!
 – Oden!
 
-262
+342
 00:23:19,630 --> 00:23:20,800
 Stai bene?!
 
-263
+343
 00:23:20,800 --> 00:23:22,260
 Bollente!
 
-264
+344
 00:23:34,890 --> 00:23:36,850
 Questa è un'avventura! Un'avventura!
 
-265
+345
 00:23:38,400 --> 00:23:40,690
 Piante strane...
 
-266
+346
 00:23:46,530 --> 00:23:48,530
 Animali strani...
 
-267
+347
 00:23:51,280 --> 00:23:52,830
 Umani giganti...
 
-268
+348
 00:23:53,200 --> 00:23:54,700
 Così grandi!
 
-269
+349
 00:23:57,750 --> 00:23:58,960
 Indietro!
 
-270
+350
 00:24:07,680 --> 00:24:09,930
 Bene!
 
-271
+351
 00:24:17,140 --> 00:24:20,110
 Una forza travolgente...
 
-272
+352
 00:24:23,230 --> 00:24:26,150
 E idee...
 
-273
+353
 00:24:26,150 --> 00:24:30,660
 Ogni giorno è diverso dal precedente
 e mi apre gli occhi in modi nuovi!
 
-274
+354
 00:24:30,660 --> 00:24:33,200
 Tutto supera la mia immaginazione!
 
-275
+355
 00:24:33,450 --> 00:24:37,540
 Sono solo un piccolissimo pezzo del mondo!
 
-276
+356
 00:24:40,790 --> 00:24:41,960
 La mia età?
 
-277
+357
 00:24:42,340 --> 00:24:47,470
 Ho 26 anni, ma sono nata circa 800 anni fa.
 
-278
+358
 00:24:47,470 --> 00:24:51,930
 Nata 800 anni fa?
 Sei una vecchiaccia assurda!
 
-279
+359
 00:24:55,270 --> 00:24:57,430
 Davvero, tutto è possibile.
 
-280
+360
 00:24:57,430 --> 00:25:01,350
 Il mondo è grande, e nulla
 è fuori questione!
 
-281
+361
 00:25:03,270 --> 00:25:08,530
 Questo mondo consiste interamente
 di quattro mari e una fascia di oceano.
 
-282
+362
 00:25:08,530 --> 00:25:13,070
 E ho sentito che il mondo
 è rotondo come un onigiri!
 
-283
+363
 00:25:13,200 --> 00:25:16,040
 Che affascinante!
 
-284
+364
 00:25:17,910 --> 00:25:20,920
 Ti stai godendo il viaggio, Toki?
 
-285
+365
 00:25:20,920 --> 00:25:22,170
 Moltissimo.
 
-286
+366
 00:25:22,170 --> 00:25:24,920
 Voglio vedere ancora di più del mondo!
 
-287
+367
 00:25:24,920 --> 00:25:27,420
 Davvero? Sono lieto di sentirlo!
 
-288
+368
 00:25:27,420 --> 00:25:28,920
 È una mappa?
 
-289
+369
 00:25:28,920 --> 00:25:29,760
 Sì!
 
-290
+370
 00:25:30,300 --> 00:25:34,220
 Wano è minuscola rispetto
 al resto del mondo!
 
-291
+371
 00:25:34,220 --> 00:25:37,140
 Dove sei nata, Toki?
 
-292
+372
 00:25:38,890 --> 00:25:40,230
 Non l'ho mai scoperto.
 
-293
+373
 00:25:41,230 --> 00:25:44,440
 So solo che i miei genitori venivano da Wano.
 
-294
+374
 00:25:46,150 --> 00:25:50,950
 Ecco perché Wano è l'unico
 posto dove voglio andare...
 
-295
+375
 00:25:51,490 --> 00:25:55,030
 Ma questa nave probabilmente
 non tornerà là per un po'.
 
-296
+376
 00:25:58,370 --> 00:25:59,910
 Mi dispiace.
 
-297
+377
 00:26:01,410 --> 00:26:05,040
 Vi prego, non dispiacetevi!
 Siete stato così divertente!
 
-298
+378
 00:26:06,340 --> 00:26:10,510
 Quando sono con voi, mi sento
 come se fossi esattamente dove voglio essere!
 
-299
+379
 00:26:11,380 --> 00:26:12,930
 Mi chiedo perché...
 
-300
+380
 00:26:12,930 --> 00:26:14,430
 Non lo so nemmeno io...
 
-301
+381
 00:26:15,050 --> 00:26:16,390
 Che strano...
 
-302
+382
 00:26:16,390 --> 00:26:17,760
 Sì, è davvero strano!
 
-303
+383
 00:26:22,770 --> 00:26:24,020
 Ehi!
 
-304
+384
 00:26:24,020 --> 00:26:26,440
 Avete visto Lord Oden?
 
-305
+385
 00:26:26,440 --> 00:26:27,440
 Di là?
 
-306
+386
 00:26:28,320 --> 00:26:30,070
 La curiosità uccise il gatto!
 
-307
+387
 00:26:43,410 --> 00:26:45,580
 Persino Barbabianca ha un nemico giurato...
 
-308
+388
 00:26:46,420 --> 00:26:47,540
 È la Marina!
 
-309
+389
 00:26:47,540 --> 00:26:49,130
 Ritirata!
 
-310
+390
 00:26:50,630 --> 00:26:51,840
 Perché siamo fuggiti?!
 
-311
+391
 00:26:52,220 --> 00:26:54,340
 Sembravano forti!
 
-312
+392
 00:26:54,340 --> 00:26:55,590
 Avremmo dovuto combattere!
 
-313
+393
 00:26:55,590 --> 00:26:57,600
 Sono la Marina!
 
-314
+394
 00:26:58,560 --> 00:27:00,310
 È un'organizzazione enorme.
 
-315
+395
 00:27:00,310 --> 00:27:04,810
 Sconfiggerli oggi non farebbe altro
 che invitarne altri a venire a cercarci.
 
-316
+396
 00:27:05,690 --> 00:27:09,070
 Quindi quest'organizzazione gestisce
 gli affari del mondo intero?!
 
-317
+397
 00:27:09,900 --> 00:27:12,150
 Che potenza devono avere!
 
-318
+398
 00:27:12,690 --> 00:27:17,030
 Aspetta di aver visto più mondo
 prima di giudicare la loro potenza.
 
-319
+399
 00:27:17,490 --> 00:27:20,490
 Il tuo paese è ancora libero, dopotutto!
 
-320
+400
 00:27:29,170 --> 00:27:31,300
 Niente nemmeno nel giornale di oggi.
 
-321
+401
 00:27:32,050 --> 00:27:33,920
 Un'altra storia su Barbabianca?!
 
-322
+402
 00:27:33,920 --> 00:27:36,050
 Ma stiamo causando guai anche noi!
 
-323
+403
 00:27:36,050 --> 00:27:38,300
 Ehi! Non ho finito di leggere!
 
-324
+404
 00:27:38,300 --> 00:27:44,560
 Ad ogni modo, Barbabianca ha quel samurai pazzo
 di Wano che fa sempre disastri.
 
-325
+405
 00:27:46,310 --> 00:27:47,900
 – Capitano!
 – Capitano!
 
-326
+406
 00:27:51,190 --> 00:27:54,690
 Un samurai da un paese isolato...
 
-327
+407
 00:27:55,820 --> 00:27:57,990
 Spero che le nostre strade si incrocino!

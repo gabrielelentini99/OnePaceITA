@@ -1,53 +1,53 @@
-﻿1
+1
 00:00:01,110 --> 00:00:01,860
-Cosa?!
+What?!
 
 2
 00:00:01,860 --> 00:00:03,480
-Oden, te ne vai?!
+Oden, you're leaving?!
 
 3
 00:00:03,480 --> 00:00:05,740
-Ci sarà meno confusione, ma ci mancherà.
+There'll be less trouble, but we'll miss him.
 
 4
 00:00:07,110 --> 00:00:09,360
-Si dice che un mostro viva a Kuri.
+I hear a monster lives in Kuri.
 
 5
 00:00:09,910 --> 00:00:11,910
-Un demone di nome Ashura Doji.
+A demon by the name of Ashura Doji.
 
 6
 00:00:13,080 --> 00:00:15,200
-Kuri è un cancro per Wano...
+Kuri is a cancer in Wano...
 
 7
 00:00:15,200 --> 00:00:17,290
-Persino lo Shogun Sukiyaki non riesce a tenerla sotto controllo.
+Even Shogun Sukiyaki cannot control it.
 
 8
 00:00:18,080 --> 00:00:22,460
-Le autorità sono impotenti nell'arrestare
-i criminali che si rifugiano a Kuri.
+The authorities are powerless to apprehend
+criminals who take refuge in Kuri.
 
 9
 00:00:22,460 --> 00:00:26,300
-Ma moriranno lì comunque
-se la forza fa difetto.
+But they will die there anyway
+if their strength is lacking.
 
 10
 00:00:26,920 --> 00:00:31,140
-Una regione così senza legge
-potrebbe anche essere un altro paese!
+Such a lawless region might
+as well be another country!
 
 11
 00:00:32,930 --> 00:00:36,310
-Affascinante! Esplorerò la terra di Wano!
+Fascinating! I shall tour the land Wano!
 
 12
 00:00:37,480 --> 00:00:39,190
-Abbi cura di te!
+Take care!
 
 13
 00:00:39,190 --> 00:00:41,350
@@ -55,19 +55,19 @@ Kin! Denjiro!
 
 14
 00:00:41,350 --> 00:00:42,730
-Venite a trovarci ancora!
+Come visit us again!
 
 15
 00:00:42,730 --> 00:00:43,900
-A presto!
+See you!
 
 16
 00:00:43,900 --> 00:00:47,860
-Viene e va come gli pare.
+He comes and goes as he pleases.
 
 17
 00:00:47,860 --> 00:00:49,650
-È uno spirito libero.
+He is a free spirit.
 
 18
 00:00:49,650 --> 00:00:51,530
@@ -75,28 +75,28 @@ Lord Yasuie!
 
 19
 00:00:51,530 --> 00:00:53,660
-Abbiamo un problema!
+We have a problem!
 
 20
 00:00:54,580 --> 00:00:57,120
-Guardate in che stato sono i suoi alloggi!
+Look at the state of his accommodations!
 
 21
 00:00:57,120 --> 00:00:59,330
-Che tipo di stile di vita causerebbe tutto questo?!
+What kind of lifestyle would cause this?!
 
 22
 00:00:59,330 --> 00:01:01,870
-Dobbiamo addebitargli le riparazioni!
+We must charge him for the repairs!
 
 23
 00:01:03,210 --> 00:01:06,460
-O facciamo finta di essere stati
-colpiti da un disastro naturale...
+Or we just pretend we were
+struck by a natural disaster...
 
 24
 00:01:06,460 --> 00:01:09,470
-Mio signore, siete troppo indulgente con lui!
+My lord, you are too soft on him!
 
 25
 00:01:09,470 --> 00:01:10,680
@@ -104,103 +104,103 @@ Lord Yasuie!
 
 26
 00:01:11,590 --> 00:01:13,220
-Cosa ancora?
+What now?
 
 27
 00:01:15,310 --> 00:01:16,680
-Mancano dei soldi?
+There is money missing?
 
 28
 00:01:16,680 --> 00:01:19,850
-Sì, e sono certo
-che fossero chiusi nella cassaforte!
+Yes, and I am certain
+it was locked in the safe!
 
 29
 00:01:20,310 --> 00:01:21,310
-Ehm...
+Um...
 
 30
 00:01:22,770 --> 00:01:25,230
-Mi duole dirlo...
+It pains me to say this...
 
 31
 00:01:25,900 --> 00:01:28,480
-ma ho assistito a tutto!
+but I witnessed the whole thing!
 
 32
 00:01:29,820 --> 00:01:32,990
-Ehm... Lord Oden...
+Um... Lord Oden...
 
 33
 00:01:32,990 --> 00:01:35,580
-ha infilato i soldi
-nel taschino interno...
+tucked the money into
+his inner breast pocket...
 
 34
 00:01:36,660 --> 00:01:38,490
-Lo sapevo che l'aveva fatto!
+I knew he did it!
 
 35
 00:01:38,490 --> 00:01:40,660
-Ha morso la mano che lo nutriva!
+He bit the hands that fed him!
 
 36
 00:01:40,660 --> 00:01:41,830
-Questo è imperdonabile!
+This is unforgivable!
 
 37
 00:01:41,830 --> 00:01:44,500
-Penso che Oden l'avrebbe preso apertamente.
+I think Oden would have taken it openly.
 
 38
 00:01:45,840 --> 00:01:47,380
-Sei sicuro, Orochi?
+Are you sure, Orochi?
 
 39
 00:01:48,300 --> 00:01:49,760
-S-Sì! Mi scuso!
+Y-Yes! My apologies!
 
 40
 00:01:50,170 --> 00:01:53,720
-Avevo così tanta paura da non riuscire a fermarlo!
+I was so scared that I couldn't stop him!
 
 41
 00:02:03,650 --> 00:02:09,070
-Dopo aver lasciato Hakumai, il gruppo di Oden continuò
-a fare disastri per tutto Wano
+After leaving Hakumai, Oden's group continued
+to cause trouble throughout Wano
 
 42
 00:02:09,070 --> 00:02:10,940
-mentre si dirigevano verso Kuri.
+as they headed toward Kuri.
 
 43
 00:02:18,370 --> 00:02:20,580
-Per quanto tempo intendete seguirmi?!
+How long are you two going to follow me?!
 
 44
 00:02:21,080 --> 00:02:22,080
-Per sempre!
+Forever!
 
 45
 00:02:22,080 --> 00:02:24,290
-Ti vogliamo così tanto bene!
+We love you so much!
 
 46
 00:02:28,960 --> 00:02:30,210
-– Sembra seccato!
-– Sembra seccato!
+– He looks annoyed!
+– He looks annoyed!
 
 47
 00:02:33,470 --> 00:02:36,550
-Ehi! Perché state lì fuori?
+Hey! Why are you standing out there?
 
 48
 00:02:36,550 --> 00:02:39,010
-Come vostri servitori, dobbiamo fare la guardia.
+As your retainers, we must stand guard.
 
 49
 00:02:39,010 --> 00:02:40,560
-Entrate, idioti!
+Come in, you idiots!
 
 50
 00:02:40,970 --> 00:02:42,980
@@ -209,121 +209,121 @@ Entrate, idioti!
 
 51
 00:02:44,270 --> 00:02:45,770
-Cosa stai facendo?
+What are you doing?
 
 52
 00:02:45,770 --> 00:02:47,110
-Sto tenendo un diario di bordo.
+I'm keeping a logbook.
 
 53
 00:02:47,520 --> 00:02:51,940
-A quanto pare, i navigatori oltreoceano
-ci scrivono ogni giorno sulle loro navi.
+Apparently, voyagers overseas write
+in them every day on their ships.
 
 54
 00:02:52,610 --> 00:02:56,320
-Le seguenti sono le parole di Oden
-riguardo ai suoi viaggi.
+The following are Oden's own 
+words regarding his journeys.
 
 55
 00:03:07,290 --> 00:03:11,800
-A Ringo, ci siamo imbattuti
-in un paio di fratelli affamati in cenci.
+In Ringo, we came across
+a couple of starving brothers in rags.
 
 56
 00:03:14,720 --> 00:03:16,260
-Vattene!
+Get lost!
 
 57
 00:03:20,680 --> 00:03:24,060
-Stavano cercando di guadagnare
-ballando, ma la gente era fredda.
+They were trying to earn money
+by dancing, but people were cold.
 
 58
 00:03:30,900 --> 00:03:33,030
-Perché mi seguite voi due?!
+Why are you two following me?!
 
 59
 00:03:34,940 --> 00:03:36,110
-Smettetela di mangiare, mocciosi!
+Stop eating, you brats!
 
 60
 00:03:36,110 --> 00:03:37,030
-Ne voglio ancora.
+I want more.
 
 61
 00:03:37,030 --> 00:03:38,530
-Ho detto basta!
+I said stop!
 
 62
 00:03:38,530 --> 00:03:40,200
-Non dategli altro!
+Do not give him any more!
 
 63
 00:03:40,200 --> 00:03:43,750
-Dissero di essere
-gli eredi di una scuola di danza,
+They mentioned being
+the heirs to a school of dance,
 
 64
 00:03:43,750 --> 00:03:47,620
-ma il loro padre era stato arrestato,
-separando la famiglia.
+but their father was arrested,
+breaking up their family.
 
 65
 00:03:47,620 --> 00:03:52,800
-Mangiarono sfacciatamente il nostro oden,
-singhiozzando tutto il tempo.
+They brazenly ate our oden,
+sobbing all the while.
 
 66
 00:04:01,930 --> 00:04:08,270
-A Kibi, c'era un ghoul che
-raccoglieva capelli dai vivi e dai morti.
+In Kibi, there was a ghoul who
+collected hair from the living and dead alike.
 
 67
 00:04:08,770 --> 00:04:12,940
-Era un tipo strano che si guadagnava da vivere
-vendendo pennelli fatti di capelli.
+He was a freak who made a living
+selling brushes made from the hair.
 
 68
 00:04:21,950 --> 00:04:25,620
-Wow! Mi arrendo! Mi arrendo! Mi arrendo!
-Pensavo fossi un cadavere!
+Whoa! I give up! I give up! I give up!
+I thought you were a corpse!
 
 69
 00:04:25,620 --> 00:04:30,040
-L'ho preso a pugni per aver inseguito i miei capelli,
-ma poi ha iniziato a seguirmi anche lui.
+I punched him for coming after my hair,
+but then he began to follow me too.
 
 70
 00:04:30,040 --> 00:04:33,880
-Sosteneva di aver sofferto—
-e meritatamente—di persecuzioni.
+He claimed to have suffered—
+and deservedly so—from persecution.
 
 71
 00:04:34,710 --> 00:04:39,340
-Nell'Udon coperto di foreste, giravano
-voci di un famigerato bandito di montagna.
+In the forest-covered Udon, there were
+rumors of a notorious mountain bandit.
 
 72
 00:04:39,340 --> 00:04:43,470
-Si diceva che le donne venissero rapite,
-e gli uomini picchiati sodo.
+They said women would be abducted,
+and men would be beaten soundly.
 
 73
 00:04:44,930 --> 00:04:46,770
-Perché mi seguite tutti?!
+Why are you all following me?!
 
 74
 00:04:46,770 --> 00:04:48,430
-Lo dici a me!
+You're telling me!
 
 75
 00:04:57,280 --> 00:04:59,030
-È quello il bandito di montagna?!
+Is that the mountain bandit?!
 
 76
 00:05:01,490 --> 00:05:02,160
-Salta!
+Jump!
 
 77
 00:05:02,570 --> 00:05:04,450
@@ -331,1710 +331,1389 @@ Lord Oden!
 
 78
 00:05:05,660 --> 00:05:13,540
-Il prodigioso ninja Raizo lasciò l'Oniwabanshu
-del Clan Kozuki dopo che una kunoichi gli spezzò il cuore.
+The prodigious ninja, Raizo, quit the Kozuki Clan's
+Oniwabanshu after a kunoichi broke his heart.
 
 79
 00:05:13,540 --> 00:05:17,920
-Non posso più vivere nascondendomi!
+I cannot live my life in hiding any longer!
 
 80
 00:05:23,260 --> 00:05:24,760
-Sembra seccato...
+He looks annoyed...
 
 81
 00:05:35,570 --> 00:05:37,940
-Kozuki Oden è arrivato a Kuri?
+Kozuki Oden has come to Kuri?
 
 82
 00:05:37,940 --> 00:05:40,070
-È il figlio dello shogun!
+He's the shogun's son!
 
 83
 00:05:40,070 --> 00:05:41,820
-Voglio ucciderlo io stesso!
+I wanna kill him myself!
 
 84
 00:05:41,820 --> 00:05:43,450
-Catturatelo e portatelo qui!
+Catch him and bring him here!
 
 85
 00:05:43,450 --> 00:05:44,450
-– Signorsì!
-– Signorsì!
+– Yes, sir!
+– Yes, sir!
 
 86
 00:05:53,540 --> 00:05:57,750
-Quelli al potere... Sono quelli che odiamo di più!
-
+Those in power... We hate them most of all!
 
 87
 00:06:00,840 --> 00:06:02,630
-Dov'è Oden?
-
+Where's Oden?
 
 88
 00:06:02,630 --> 00:06:04,970
-È andato a sud per i suoi bisogni.
-
+He went south of here to take a dump.
 
 89
 00:06:05,300 --> 00:06:07,310
-Non era ieri?
-
+Wasn't that yesterday?
 
 90
 00:06:07,310 --> 00:06:11,680
-A volte sparisce per capriccio
-per uno o due giorni, no?
-
+He sometimes disappears on a whim
+for one or two days, right?
 
 91
 00:06:12,390 --> 00:06:15,440
-Ehi, Raizo! C'è un cancello
-per Kuri a sud!
-
+Hey, Raizo! There's a gate
+to Kuri in the south!
 
 92
 00:06:15,440 --> 00:06:16,190
-Cosa?!
-
+What?!
 
 93
 00:06:17,150 --> 00:06:22,650
-Maledizione! Avevo giurato di morire per lui,
-e adesso sono in ritardo per il campo di battaglia!
-
+Crap! I swore I'd die for him, and now
+I'm late to join him on the battlefield!
 
 94
 00:06:54,310 --> 00:06:59,190
-Questo era un luogo pieno di fetore
-di morte, sangue e violenza!
-
+This was a place filled with the stench
+of death, blood, and violence!
 
 95
 00:06:59,190 --> 00:07:00,900
-Era come un mondo diverso.
-
+It was like a different world.
 
 96
 00:07:00,900 --> 00:07:04,610
-Tutta la loro sete di sangue era diretta verso di me!
-
+All of their bloodlust was directed toward me!
 
 97
 00:07:05,240 --> 00:07:09,620
-Ti staccherò la testa, Kozuki Oden!
-
+I'll lop off your head, Kozuki Oden!
 
 98
 00:08:57,890 --> 00:08:59,730
-Tu sei Kozuki Oden, eh?
-
+You're Kozuki Oden, huh?
 
 99
 00:09:02,310 --> 00:09:04,110
-Sono stato diseredato,
-
+I have been disowned,
 
 100
 00:09:04,110 --> 00:09:06,030
-quindi non ho più un nome!
-
+so I no longer have a name!
 
 101
 00:09:06,650 --> 00:09:10,650
-Puoi entrare quanto vuoi,
-ma uccidiamo chiunque cerchi di uscire!
-
+You can enter all you like,
+but we kill any who try to leave!
 
 102
 00:09:10,650 --> 00:09:13,450
-Soprattutto i samurai!
-
+Especially samurai!
 
 103
 00:09:19,250 --> 00:09:21,580
-È così restrittivo!
-
+It is so restrictive!
 
 104
 00:09:23,000 --> 00:09:27,170
-Come può qualcuno vivere in un posto simile?!
-
+How can anyone live in a place like this?!
 
 105
 00:09:27,630 --> 00:09:30,050
-Divertente.
-
+That's hilarious.
 
 106
 00:09:30,050 --> 00:09:34,300
-Non lascerai mai questo posto!
-
+You're never going to leave this place!
 
 107
 00:09:34,300 --> 00:09:36,430
-No, non provare neanche ad andartene!
-
+No, don't even try to leave!
 
 108
 00:09:37,850 --> 00:09:39,730
-"Non provare neanche ad andartene"?
-
+"Don't even try to leave"?
 
 109
 00:09:39,730 --> 00:09:43,400
-Questa è la regola che odio di più!
-
+That is my least favorite rule!
 
 110
 00:09:43,400 --> 00:09:45,900
-Qui le regole le faccio io!
-
+I make the rules here!
 
 111
 00:09:47,070 --> 00:09:48,110
-Fatelo a pezzi!
-
+Cut him down!
 
 112
 00:10:21,350 --> 00:10:22,850
-Questo ti rende il capo?
-
+That makes you the boss?
 
 113
 00:10:34,490 --> 00:10:37,410
 – Oden!
 – Oden!
 
-
 114
 00:10:37,740 --> 00:10:39,870
 Oden!
 
-
 115
 00:10:41,700 --> 00:10:43,960
-Guardate! Il cancello è stato distrutto!
-
+Look! The gate has been broken!
 
 116
 00:10:52,090 --> 00:10:55,510
-Come può un idiota cresciuto
-coccolato nella capitale...
-
+How can an ass who grew up
+pampered in the capital...
 
 117
 00:10:56,090 --> 00:10:59,350
-capire cosa vuol dire vivere all'inferno?!
-
+understand what it's like to live in hell?!
 
 118
 00:10:59,350 --> 00:11:03,020
-È tutto qui quello che hai da dire?!
-
+Is that all you really want to say?!
 
 119
 00:11:05,560 --> 00:11:06,520
-Guardate!
-
+Look!
 
 120
 00:11:07,900 --> 00:11:09,060
-Lassù!
-
+Up there!
 
 121
 00:11:19,370 --> 00:11:22,580
-Oden! Siamo qui per darti manforte!
-
+Oden! We're here to back you up!
 
 122
 00:11:26,460 --> 00:11:27,830
-Devo scusarmi.
-
+I must apologize.
 
 123
 00:11:28,250 --> 00:11:31,710
-Mi sembra di aver già finito.
-
+I seem to have finished up already.
 
 124
 00:11:32,340 --> 00:11:35,930
-Mi è servito un giorno e una notte interi.
-
+It took me an entire day and night.
 
 125
 00:11:45,100 --> 00:11:47,480
-Uccidimi, ormai!
-
+Kill me already!
 
 126
 00:11:47,480 --> 00:11:49,860
-So già cosa riserva il futuro.
-
+I know what the future holds anyway.
 
 127
 00:11:50,860 --> 00:11:52,820
-Non ho niente per cui vivere!
-
+I've got nothing to live for!
 
 128
 00:11:53,820 --> 00:11:58,030
-Questo è il famigerato Ashura Doji?!
-
+This is the infamous Ashura Doji?!
 
 129
 00:11:58,570 --> 00:12:00,700
-Ehi, ragazzi!
-
+Hey, you guys!
 
 130
 00:12:01,030 --> 00:12:04,290
-Mi volete ancora bene?
-
+Do you still love me?
 
 131
 00:12:08,080 --> 00:12:11,790
-Prestatemi la vostra saggezza e la vostra forza!
-
+Lend me your wisdom and strength!
 
 132
 00:12:12,590 --> 00:12:16,920
-Ho deciso che le fecce senza valore qui...
-
+I have decided that the worthless scum here...
 
 133
 00:12:17,420 --> 00:12:20,050
-hanno bisogno di me come loro re!
-
+need me as their king!
 
 134
 00:12:32,690 --> 00:12:35,360
-Mio signore, Shogun! Lord Oden ha fatto di nuovo!
-
+My lord, Shogun! Lord Oden is at it again!
 
 135
 00:12:35,780 --> 00:12:38,900
-Cosa? Cos'ha fatto stavolta?!
-
+What? What did he do this time?!
 
 136
 00:12:39,820 --> 00:12:40,820
-Guardate!
-
+Look at this!
 
 137
 00:12:46,000 --> 00:12:47,790
-Quella Kuri senza legge...
-
+That lawless Kuri...
 
 138
 00:12:49,040 --> 00:12:52,130
-Solo lui poteva fare una cosa simile...
-
+Only he could do this...
 
 139
 00:12:52,130 --> 00:12:54,920
-È tutto vero?
-
+Is this all true?
 
 140
 00:12:57,670 --> 00:13:02,890
-Guidando i facinorosi della
-terra sanguinaria e infernale di Kuri,
-
+Leading the roughnecks
+of the bloody and hellish land of Kuri,
 
 141
 00:13:02,890 --> 00:13:10,850
-Oden sfruttò la loro abbondante energia
-per trasformare la terra selvaggia in un luogo abitabile.
-
+Oden utilized their abundant energy
+to turn the wild land into a habitable place.
 
 142
 00:13:17,940 --> 00:13:23,200
-Avendo saputo di questa impresa,
-lo Shogun Kozuki Sukiyaki revocò la diseredazione
-
+After hearing of this accomplishment,
+Shogun Kozuki Sukiyaki revoked his disownment
 
 143
 00:13:23,200 --> 00:13:27,370
-e conferì a suo figlio
-il titolo di daimyo di Kuri.
-
+and bestowed upon his son
+the title of daimyo of Kuri.
 
 144
 00:13:27,370 --> 00:13:31,120
-Il nostro grande Lord Oden diventerà
-il daimyo di Kuri!
-
+Our great Lord Oden will become
+the daimyo of Kuri!
 
 145
 00:13:31,120 --> 00:13:32,500
-Urrà!
-
+Hooray!
 
 146
 00:13:32,500 --> 00:13:34,750
-Allora diventerà una provincia a tutti gli effetti!
-
+Then it'll become a full-fledged province!
 
 147
 00:13:34,750 --> 00:13:38,260
-Non ci posso credere! Ma abbiamo
-resistito fino alla fine!
-
+I can't believe it! But we
+stuck it out to the end!
 
 148
 00:13:42,300 --> 00:13:43,970
 Kin...
 
-
 149
 00:13:47,260 --> 00:13:49,850
-Ce l'hai fatta! Il nostro amato Oden ce l'ha fatta!
-
+You did it! Our beloved Oden did it!
 
 150
 00:13:49,850 --> 00:13:50,810
-Urrà!
-
+Hooray!
 
 151
 00:13:50,810 --> 00:13:52,440
-Sei fantastico, Oden!
-
+You're amazing, Oden!
 
 152
 00:13:52,440 --> 00:13:54,150
-Finalmente sei il—di Kuri!
-
+You're finally Kuri's–
 
 153
 00:13:54,150 --> 00:13:55,270
 Oden!
 
-
 154
 00:13:59,820 --> 00:14:00,990
-Assolutamente!
-
+Absolutely!
 
 155
 00:14:03,990 --> 00:14:06,830
 Daimyo!
-
 
 156
 00:14:11,250 --> 00:14:12,750
 – Lord Oden!
 – Lord Oden!
 
-
 157
 00:14:19,210 --> 00:14:20,710
-Cos'hai, Ashura?
-
+What is the matter, Ashura?
 
 158
 00:14:22,090 --> 00:14:23,470
-Io...
-
+I...
 
 159
 00:14:23,880 --> 00:14:27,720
-non ho mai visto la pace prima d'ora.
-
+have never seen peace before.
 
 160
 00:14:30,060 --> 00:14:32,310
-Grazie, Oden!
-
+Thank you, Oden!
 
 161
 00:14:32,770 --> 00:14:35,400
-Smettila! Mi fai venire i brividi!
-
+Stop it! You are creeping me out!
 
 162
 00:14:39,230 --> 00:14:41,490
-Bastardo!
-
+You bastard!
 
 163
 00:14:42,900 --> 00:14:44,530
-Cosa fate?! Smettetela!
-
+What're you doing?! Stop it!
 
 164
 00:14:44,530 --> 00:14:46,240
-Ehi!
-
+Hey!
 
 165
 00:14:46,240 --> 00:14:48,200
-Ho detto "Smettetela"!
-
+I said "Stop it"!
 
 166
 00:14:46,620 --> 00:14:48,200
-Al diavolo!
-
+Screw you!
 
 167
 00:14:49,080 --> 00:14:50,580
-Piantatela una buona volta!
-
+Knock it off already!
 
 168
 00:14:50,580 --> 00:14:53,500
-Ora, un daimyo necessita di servitori.
-
+Now, a daimyo requires retainers.
 
 169
 00:14:55,000 --> 00:14:58,790
-Invece di circondarmi dei soliti
-uomini saggi e sobri...
-
+Instead of surrounding myself
+with the usual wise and sober men...
 
 170
 00:15:00,800 --> 00:15:03,050
-preferirei avere voi.
-
+I would rather have you all.
 
 171
 00:15:12,850 --> 00:15:15,940
-Diventate i miei samurai!
-
+Be my samurai!
 
 172
 00:15:35,370 --> 00:15:37,710
 – Lord Oden!
 – Lord Oden!
 
-
 173
 00:15:38,250 --> 00:15:39,380
-S-S-Smettetela!
-
+S-S-Stop it!
 
 174
 00:15:39,380 --> 00:15:42,750
-Il moccio! Il moccio!
-Vi sta colando! Oh, è su di me!
-
+Your snot! Your snot!
+It is dripping! Oh, it is on me!
 
 175
 00:15:42,750 --> 00:15:44,720
-Smettetela!
-
+Stop it!
 
 176
 00:15:45,720 --> 00:15:52,510
-Sei anni dopo quel momento...
-trentatré anni prima dei giorni nostri...
-
+Six years after that moment in time...
+yet thirty-three years before the present day...
 
 177
 00:15:52,510 --> 00:15:58,350
-in giro per il mondo, i membri dispersi
-dei leggendari Pirati di Rocks
-
+across the world, disbanded members
+of the legendary Rocks Pirates
 
 178
 00:15:58,350 --> 00:16:04,230
-formarono ciascuno una nuova ciurma, estesero
-la loro influenza e divennero famigerati.
-
+each formed a new crew, extended
+their influence, and became infamous.
 
 179
 00:16:11,030 --> 00:16:13,790
-Cosa sono? Animali?
-
+What are they? Animals?
 
 180
 00:16:14,240 --> 00:16:16,710
-Umani pelosi?
-
+Hairy humans?
 
 181
 00:16:19,170 --> 00:16:21,250
-Mostri deformi?
-
+Deformed monsters?
 
 182
 00:16:28,220 --> 00:16:29,470
-L'hai preso?
-
+Did you get it?
 
 183
 00:16:29,470 --> 00:16:30,300
-Sì...
-
+Yeah...
 
 184
 00:16:36,850 --> 00:16:40,770
-In un passato lontano, molti secoli fa,
-
+In the distant past, many centuries ago,
 
 185
 00:16:41,100 --> 00:16:45,730
-noi Minks e i samurai
-del Clan Kozuki di Wano
-
+we minks and the samurai
+of Wano's Kozuki Clan
 
 186
 00:16:46,490 --> 00:16:49,780
-facemmo un giuramento per diventare fratelli giurati.
-
+made a pledge to become sworn brothers.
 
 187
 00:16:50,360 --> 00:16:54,240
-Maledizione! Wano è il peggiore!
-
+Damn! Wano is the worst!
 
 188
 00:16:54,240 --> 00:16:56,620
-Maledizione! Fatemi scendere!
-
+Dammit! Let me down!
 
 189
 00:16:58,080 --> 00:16:59,670
-Sono un kappa!
-
+I'm a kappa!
 
 190
 00:16:59,670 --> 00:17:01,120
-Il che ti rende un mostro!
-
+Which makes you a monster!
 
 191
 00:17:01,120 --> 00:17:03,750
-Vorrei non aver mai preso il mare!
-
+I wish we'd never set sail!
 
 192
 00:17:03,750 --> 00:17:05,710
-Vorrei non essere venuto qui!
-
+I wish we hadn't come here!
 
 193
 00:17:05,710 --> 00:17:09,010
-Non è così che si trattano i fratelli!
-
+This isn't how you treat brothers!
 
 194
 00:17:09,380 --> 00:17:12,260
-Un mostro gatto, un mostro cane e un kappa...
-
+A cat monster, dog monster, and a kappa...
 
 195
 00:17:12,260 --> 00:17:14,640
-Questa spiaggia è maledetta?
-
+Is this beach cursed?
 
 196
 00:17:14,640 --> 00:17:15,970
-Bruciamoli vivi!
-
+Let's burn them alive!
 
 197
 00:17:19,480 --> 00:17:20,270
-Non fatelo!
-
+Don't do it!
 
 198
 00:17:25,150 --> 00:17:27,820
-Sono ingredienti a sufficienza per l'oden di oggi...
-
+That is plenty of ingredients for today's oden...
 
 199
 00:17:35,580 --> 00:17:37,870
-Miserabili!
-
+You wretches!
 
 200
 00:17:46,800 --> 00:17:49,840
-Dovreste vergognarvi tutti!
-
+You should all be ashamed!
 
 201
 00:17:49,840 --> 00:17:53,260
-Temete ciò che è diverso per ignoranza!
-
+You fear what is different out of ignorance!
 
 202
 00:17:53,260 --> 00:17:56,220
-È patetico tormentare creature così piccole!
-
+It is pathetic to torment such little creatures!
 
 203
 00:17:56,810 --> 00:17:58,140
-Grazie...
-
+Thank you...
 
 204
 00:18:00,180 --> 00:18:01,480
-Addio.
-
+Farewell.
 
 205
 00:18:01,480 --> 00:18:03,480
-– Non lasciarci così!
-– Non lasciarci così!
-
+– Don't leave us like this!
+– Don't leave us like this!
 
 206
 00:18:10,990 --> 00:18:12,990
-Allora, chi sono i mostri?
-
+So, who are the monsters?
 
 207
 00:18:12,990 --> 00:18:14,200
-Mi hanno seguito.
-
+They followed me.
 
 208
 00:18:16,870 --> 00:18:19,120
-Grazie per averci salvato!
-
+Thank you for saving us!
 
 209
 00:18:21,250 --> 00:18:22,500
-È bollente!
-
+It's hot!
 
 210
 00:18:22,500 --> 00:18:26,880
-Tra la fame, il naufragio
-e la folla violenta, siamo quasi morti!
-
+Between starvation, a shipwreck,
+and a violent mob, we almost died!
 
 211
 00:18:27,880 --> 00:18:28,750
-Ahi!
-
+Ouch!
 
 212
 00:18:28,750 --> 00:18:31,010
-Ehi! È troppo caldo da mangiare!
-
+Hey! This is too hot to eat!
 
 213
 00:18:31,010 --> 00:18:32,420
-Wow...
-
+Whoa...
 
 214
 00:18:32,420 --> 00:18:35,720
-Non mi sono ancora abituato a vedere animali parlare.
-
+I still can't get used to seeing animals talking.
 
 215
 00:18:38,600 --> 00:18:39,890
-I Minks!
-
+The minks!
 
 216
 00:18:39,890 --> 00:18:42,020
-Mio padre mi ha parlato di loro.
-
+My father once told me about them.
 
 217
 00:18:42,020 --> 00:18:43,190
-Lo sapevo!
-
+I thought so!
 
 218
 00:18:43,190 --> 00:18:45,810
-Abbiamo quel simbolo anche nel nostro paese!
-
+We have that symbol in our country, too!
 
 219
 00:18:45,810 --> 00:18:48,570
-Voi-gara e il nostro popolo siete fratelli!
-
+You-gara and our people are brothers!
 
 220
 00:18:48,570 --> 00:18:50,190
-E ci avete salvato la vita!
-
+And you saved our lives!
 
 221
 00:18:50,190 --> 00:18:51,780
-Stavamo morendo di fame...
-
+We were starving...
 
 222
 00:18:51,780 --> 00:18:52,650
-Capisco...
-
+I see...
 
 223
 00:18:52,650 --> 00:18:54,400
-Mangiate quanto volete.
-
+Eat as much as you want.
 
 224
 00:18:54,400 --> 00:18:56,320
-Al nostro salvatore.
-
+Here's to our savior.
 
 225
 00:18:56,320 --> 00:18:57,120
-Ahi!
-
+Ouch!
 
 226
 00:18:57,120 --> 00:18:58,490
-Non fare il timido.
-
+Don't be shy.
 
 227
 00:18:58,490 --> 00:18:59,790
-Ti piacerà il rafano.
-
+You'll like the radish.
 
 228
 00:18:59,790 --> 00:19:01,830
-Non dimenticherò mai questo favore.
-
+I won't forget this favor.
 
 229
 00:19:01,830 --> 00:19:02,330
-Bollente!
-
+Hot!
 
 230
 00:19:02,330 --> 00:19:04,000
-Prova lo hanpen.
-
+Try the hanpen.
 
 231
 00:19:04,670 --> 00:19:05,250
-Ahi!
-
+Ouch!
 
 232
 00:19:05,250 --> 00:19:05,960
-Il konnyaku—
-
+The konnyaku–
 
 233
 00:19:05,960 --> 00:19:08,460
-No! È troppo caldo da mangiare!
-
+No! It's too hot to eat!
 
 234
 00:19:12,800 --> 00:19:16,010
-La mia lingua è sensibile come quella di un gatto!
-
+My tongue is sensitive like a cat's!
 
 235
 00:19:16,010 --> 00:19:18,140
-Gatto cattivo!
-
+Bad cat!
 
 236
 00:19:18,550 --> 00:19:20,100
-Ehi! Aspetta, Gatto!
-
+Hey! Wait, Cat!
 
 237
 00:19:22,720 --> 00:19:24,230
-Ehi, Gatto!
-
+Hey, Cat!
 
 238
 00:19:24,230 --> 00:19:26,600
-Oden era destinato...
-
+Oden was meant...
 
 239
 00:19:27,730 --> 00:19:30,190
-a bollire!
-
+to boil!
 
 240
 00:19:32,780 --> 00:19:34,360
-– È quasi figo!
-– È quasi figo!
-
+– That's kinda cool!
+– That's kinda cool!
 
 241
 00:19:36,280 --> 00:19:37,450
-Per me è buono.
-
+Tastes good to me.
 
 242
 00:19:38,240 --> 00:19:39,620
-E tu cosa sei?!
-
+And what are you?!
 
 243
 00:19:39,620 --> 00:19:43,080
-La nave su cui eravamo io e mia madre affondò, e...
-
+The ship my mother and I were on sank, and...
 
 244
 00:19:44,000 --> 00:19:46,620
-fummo gettati a riva in questo paese.
-
+we were cast ashore in this country.
 
 245
 00:19:46,620 --> 00:19:49,920
-Chiedemmo aiuto, ma la gente ci tirava
-sassi perché eravamo uomini-pesce.
-
+We asked for help, but people threw
+rocks at us for being fishmen.
 
 246
 00:19:50,340 --> 00:19:54,800
-Mia madre si fece male, quindi non potemmo
-tornare da dove eravamo venuti.
-
+My mother got hurt, so we couldn't
+go back to where we came from.
 
 247
 00:19:54,800 --> 00:19:57,180
-Prima di morire, mia madre mi disse:
-
+Before my mother died, she told me,
 
 248
 00:19:57,180 --> 00:19:59,430
-"Gli uomini-pesce subiscono discriminazione...
-
+"Fishmen suffer discrimination...
 
 249
 00:19:59,430 --> 00:20:02,310
-quindi di' di essere un kappa."
-
+so claim that you're a kappa."
 
 250
 00:20:07,190 --> 00:20:09,440
-Sono Kawamatsu il Kappa.
-
+I'm Kawamatsu the Kappa.
 
 251
 00:20:09,440 --> 00:20:11,440
-Ho vissuto di avanzi.
-
+I've been living off leftovers.
 
 252
 00:20:12,520 --> 00:20:17,150
-Grazie per avermi salvato e avermi
-offerto un pasto così delizioso.
-
+Thank you for saving me
+and treating me to such a delicious meal.
 
 253
 00:20:17,700 --> 00:20:19,660
-Non lo dimenticherò mai.
-
+I'll never forget this.
 
 254
 00:20:19,990 --> 00:20:22,450
-Posso mangiare il resto?
-
+May I eat the rest?
 
 255
 00:20:22,450 --> 00:20:25,450
-Sciocchezze. Ne cucineremo altro,
-basta aspettare un po'.
-
+Nonesense. We'll cook more,
+so just wait a bit.
 
 256
 00:20:25,450 --> 00:20:28,620
-No, non è necessario. È ancora mangiabile.
-
+No, that's not necessary. It's still edible.
 
 257
 00:20:29,960 --> 00:20:31,000
 Oh no...
 
-
 258
 00:20:31,000 --> 00:20:33,380
-Non sono riuscito a esprimere la giusta gratitudine.
-
+I failed to express proper gratitude.
 
 259
 00:20:33,380 --> 00:20:35,880
-Ho sprecato del cibo.
-
+I wasted food.
 
 260
 00:20:35,880 --> 00:20:37,590
-Sei cresciuto.
-
+You've grown up.
 
 261
 00:20:39,970 --> 00:20:41,720
-Sono miaooolto dispiaciuto, Kappa!
-
+I'm meowwy sorry, Kappa!
 
 262
 00:20:41,720 --> 00:20:43,600
-Lo mangerò anch'io!
-
+I'll eat it, too!
 
 263
 00:20:45,100 --> 00:20:47,350
-È ancora troppo caldo!
-
+It's still too hot!
 
 264
 00:20:49,640 --> 00:20:51,400
-Che gatto divertente!
-
+What an amusing cat!
 
 265
 00:20:52,770 --> 00:20:55,860
-Gatto!
-
+Cat!
 
 266
 00:20:56,940 --> 00:21:01,200
-Ci devono essere ancora creature
-là fuori che non ho mai visto.
-
+There must still be creatures
+out there I've never seen before.
 
 267
 00:21:01,200 --> 00:21:06,040
-Conoscervi ha rinvigorito il mio
-desiderio di prendere il mare un giorno!
-
+Meeting you all has reinvigorated
+my desire to one day set sail!
 
 268
 00:21:06,040 --> 00:21:06,950
-Fantastico!
-
+Sounds great!
 
 269
 00:21:06,950 --> 00:21:08,660
-Il mondo è un posto grande!
-
+The world's a big place!
 
 270
 00:21:08,660 --> 00:21:10,460
-Bene allora, prendetevi cura di voi!
-
+Well then, take care!
 
 271
 00:21:13,670 --> 00:21:15,090
-Lasciateci restare qui!
-
+Let us stay here!
 
 272
 00:21:15,090 --> 00:21:16,670
-Ma eravate in ascolto?!
-
+Were you listening to us?!
 
 273
 00:21:16,670 --> 00:21:19,050
-Non abbiamo un posto dove andare!
-
+We have no place to go!
 
 274
 00:21:19,050 --> 00:21:22,140
-Va bene! Va bene!
-
+All right! All right!
 
 275
 00:21:22,140 --> 00:21:22,180
-Va bene! Va bene!
-
+All right! All right!
 
 276
 00:21:22,180 --> 00:21:22,220
-Va bene! Va bene!
-
+All right! All right!
 
 277
 00:21:22,220 --> 00:21:22,260
-Va bene! Va bene!
-
+All right! All right!
 
 278
 00:21:22,260 --> 00:21:22,300
-Va bene! Va bene!
-
+All right! All right!
 
 279
 00:21:22,300 --> 00:21:22,340
-Va bene! Va bene!
-
+All right! All right!
 
 280
 00:21:22,340 --> 00:21:22,390
-Va bene! Va bene!
-
+All right! All right!
 
 281
 00:21:22,390 --> 00:21:22,430
-Va bene! Va bene!
-
+All right! All right!
 
 282
 00:21:22,430 --> 00:21:22,470
-Va bene! Va bene!
-
+All right! All right!
 
 283
 00:21:22,470 --> 00:21:22,510
-Va bene! Va bene!
-
+All right! All right!
 
 284
 00:21:22,510 --> 00:21:22,550
-Va bene! Va bene!
-
+All right! All right!
 
 285
 00:21:22,550 --> 00:21:22,590
-Va bene! Va bene!
-
+All right! All right!
 
 286
 00:21:22,590 --> 00:21:22,640
-Va bene! Va bene!
-
+All right! All right!
 
 287
 00:21:22,640 --> 00:21:22,680
-Va bene! Va bene!
-
+All right! All right!
 
 288
 00:21:23,350 --> 00:21:25,140
-Evviva!
-
+Yay!
 
 289
 00:21:26,010 --> 00:21:27,270
-Abbiamo altra gente...
-
+We got more people...
 
 290
 00:21:27,270 --> 00:21:30,310
-Immagino che non riesci proprio a rifiutare nessuno.
-
+I guess you just can't reject anyone.
 
 291
 00:21:31,480 --> 00:21:34,560
-Va tutto bene, ma siamo in difficoltà.
-
+That's fine and all, but we're in a bind here.
 
 292
 00:21:34,560 --> 00:21:37,570
-Hai prestato soldi a Orochi
-senza chiedermelo di nuovo!
-
+You lent money to Orochi
+without asking me again!
 
 293
 00:21:37,570 --> 00:21:39,440
-Perché aiuti quel tipo losco?!
-
+Why would you help that creep?!
 
 294
 00:21:39,440 --> 00:21:40,320
-Vedi...
-
+You see...
 
 295
 00:21:40,320 --> 00:21:45,080
-Sarà anche indipendente adesso, ma con
-i legami che ha con Yasuie, non posso abbandonarlo.
-
+He may be independent now, but with
+his ties to Yasuie, I cannot abandon him.
 
 296
 00:21:49,910 --> 00:21:53,170
-Passi silenziosi. Passi furtivi. Passi ninja.
-
+Silent steps. Stealthy steps. Ninja steps.
 
 297
 00:21:53,170 --> 00:21:55,590
-Capito? Questi sono i fondamentali.
-
+Understood? These are the fundamentals.
 
 298
 00:21:55,590 --> 00:21:56,750
-– Capito!
-– Capito!
-
+– Okay!
+– Okay!
 
 299
 00:21:56,750 --> 00:21:57,750
-Andiamo!
-
+Let's go!
 
 300
 00:21:57,750 --> 00:21:59,630
-Non abbiate paura di Yasuie!
-
+Don't be afraid of Yasuie!
 
 301
 00:21:59,630 --> 00:22:02,970
-Passi silenziosi. Passi furtivi. Passi ninja.
-
+Silent steps. Stealthy steps. Ninja steps.
 
 302
 00:22:02,970 --> 00:22:05,930
-– Passi silenziosi. Passi furtivi. Passi ninja.
-– Passi silenziosi. Passi furtivi. Passi ninja.
-
+– Silent steps. Stealthy steps. Ninja steps.
+– Silent steps. Stealthy steps. Ninja steps.
 
 303
 00:22:11,140 --> 00:22:14,020
-Perché mai dovreste voler
-rubare tutti questi soldi?
-
+Why would you want to 
+steal this much money?
 
 304
 00:22:14,020 --> 00:22:16,440
-Lord Oden era al verde!
-
+Lord Oden was broke!
 
 305
 00:22:16,440 --> 00:22:19,730
-Se ci vuoi ammazzare,
-fallo e basta, porcospino!
-
+If you're gonna kill us,
+just do it already, you hedgehog!
 
 306
 00:22:19,730 --> 00:22:22,900
-Se aiuta Lord Oden...
-
+If it'll help Lord Oden...
 
 307
 00:22:22,900 --> 00:22:26,160
-sono felice di morire!
-
+I'm happy to die!
 
 308
 00:22:27,580 --> 00:22:31,750
-Maledetto te, Oden. Sai davvero
-come sceglierli.
-
+Damn you, Oden. You certainly
+know how to pick them.
 
 309
 00:22:33,870 --> 00:22:36,380
-Vi do i soldi che avete tentato di rubare.
-
+I am giving you the money
+you tried to steal.
 
 310
 00:22:37,790 --> 00:22:38,550
-– Cosa?!
-– Cosa?!
-
+– What?!
+– What?!
 
 311
 00:22:38,550 --> 00:22:42,220
-Lord Yasuie! Questi sono i fondi di Hakumai!
-
+Lord Yasuie! These are Hakumai's funds!
 
 312
 00:22:42,220 --> 00:22:43,510
-E quindi...?
-
+And...?
 
 313
 00:22:47,550 --> 00:22:50,470
-Potete avere anche questi. Sono vostri!
-
+You can have this too. It is yours!
 
 314
 00:22:50,470 --> 00:22:52,180
-Ancora più soldi?!
-
+Even more money?!
 
 315
 00:22:52,180 --> 00:22:54,730
-Ma scherzi?! È una trappola?!
-
+You gotta be kidding me! Is this a trap?!
 
 316
 00:22:55,980 --> 00:22:57,440
-Volete bene a Oden?
-
+Do you love Oden?
 
 317
 00:22:59,650 --> 00:23:08,870
-Allora prendete questi soldi, rendetevi presentabili,
-imparate le buone maniere, comprate dei libri e studiate!
-
+Then take this money, make yourselves presentable,
+learn some manners, buy some books, and study!
 
 318
 00:23:10,290 --> 00:23:12,040
-Queste cose non fanno per noi!
-
+These don't suit us!
 
 319
 00:23:19,420 --> 00:23:20,460
-Io sono...
-
+I am...
 
 320
 00:23:20,460 --> 00:23:22,340
-No! Parla dallo stomaco!
-
+No! Speak from your stomach!
 
 321
 00:23:22,340 --> 00:23:23,510
-Io sono...!
-
+I am...!
 
 322
 00:23:31,390 --> 00:23:36,230
-Avere un mucchio di servitori buoni a nulla
-come voi non farebbe che disonorare Oden!
-
+Having a bunch of lowlife retainers
+like you would only disgrace Oden!
 
 323
 00:23:36,230 --> 00:23:40,940
-Lord Oden, vorreste gentilmente illustrarci
-il vostro temperamento in questa bella mattina?
-
+Lord Oden, would you kindly elaborate
+on your temperament this fine morning?
 
 324
 00:23:40,940 --> 00:23:43,690
-Questo ganmodoki è squisito!
-
+This ganmodoki is exquisite!
 
 325
 00:23:45,070 --> 00:23:48,110
-Ma che vi prende?!
-Mi fate venire i brividi a tutti!
-
+What is the matter with you all?!
+You are all creeping me out!
 
 326
 00:23:48,110 --> 00:23:52,080
-Lui è l'uomo che un giorno
-diventerà lo shogun di Wano!
-
+He is the man who will one day
+become the shogun of Wano!
 
 327
 00:23:52,410 --> 00:23:56,960
-Coloro che lo servono devono essere
-i migliori samurai che Wano possa offrire!
-
+Those who serve him ought to be
+the best samurai Wano has to offer!
 
 328
 00:24:21,190 --> 00:24:24,280
-Ovviamente, proteggere il vostro signore è d'obbligo.
-
+Of course, protecting your lord is a must.
 
 329
 00:24:24,280 --> 00:24:26,320
-La capitale...
-
+The capital city...
 
 330
 00:24:26,320 --> 00:24:31,830
-No, l'intero paese di Wano
-avrà voi come suoi guardiani!
-
+No, the entire country of Wano
+will have you as its guardians!
 
 331
 00:24:38,670 --> 00:24:42,420
-Ho sentito che il daimyo di Kuri
-e la sua corte stanno venendo alla capitale.
-
+I hear the daimyo of Kuri
+and his court are coming to the capital.
 
 332
 00:24:43,040 --> 00:24:44,920
-Assicuratevi di non farvi derubare.
-
+Make sure you don't get robbed.
 
 333
 00:24:44,920 --> 00:24:47,630
-Si sa che i servitori di Lord Oden sono dei delinquenti.
-
+Lord Oden's retainers are known thugs.
 
 334
 00:24:47,630 --> 00:24:50,010
-Guardate! Sono qui!
-
+Look! They're here!
 
 335
 00:24:50,010 --> 00:24:50,970
-– Come...?
-– Eh?
-
+– Wha...?
+– Huh?
 
 336
 00:24:51,390 --> 00:24:52,050
-Cosa?!
-
+What?!
 
 337
 00:25:21,170 --> 00:25:23,670
-Oh, mio Dio! Guardate quei samurai!
-
+Oh, my! Look at those samurai!
 
 338
 00:25:23,670 --> 00:25:26,590
-I servitori di Lord Oden sono
-sempre stati così dignitosi?
-
+Were Lord Oden's retainers
+always so dignified?
 
 339
 00:25:27,010 --> 00:25:28,470
-Non li avevo quasi riconosciuti!
-
+I hardly recognized them!
 
 340
 00:25:28,470 --> 00:25:30,550
-Sembra la processione di uno shogun!
-
+It's like a shogun's procession!
 
 341
 00:25:39,350 --> 00:25:46,440
-La postura regale di quei samurai era così gloriosa
-che alcune persone si dimenticarono persino di respirare.
-
+The regal postures of those samurai were
+so glorious that some people even forgot to breathe.
 
 342
 00:25:46,440 --> 00:25:52,950
-E si poterono vedere persone inginocchiarsi
-ovunque nella capitale.
-
+And one could have seen people drop
+to their knees everywhere in the capital.
 
 343
 00:25:56,450 --> 00:25:58,700
-Ehi, Padre!
-
+Hey, Father!
 
 344
 00:25:58,700 --> 00:25:59,750
 Oden!
 
-
 345
 00:25:59,750 --> 00:26:01,620
-Sei diventato un uomo così raffinato!
-
+You have become such a fine man!
 
 346
 00:26:01,620 --> 00:26:03,290
-Tutti sono sorpresi!
-
+Everyone is surprised!
 
 347
 00:26:03,290 --> 00:26:05,590
-Sono solo stato reso un uomo raffinato.
-
+I have only been made into a fine man.
 
 348
 00:26:05,590 --> 00:26:07,920
-Ma sono sempre lo stesso di sempre!
-
+But I am still the same as ever!
 
 349
 00:26:08,710 --> 00:26:11,880
-I-I-Il mio Oden prova gratitudine verso gli altri?!
-
+M-M-My Oden feels grateful toward others?!
 
 350
 00:26:12,260 --> 00:26:14,180
-Perché dovrebbe spaventarvi?
-
+Why should that scare you?
 
 351
 00:26:20,890 --> 00:26:26,480
-Avendo saputo della malattia del padre, Oden corse alla capitale
-e fu sollevato nel vederlo in buona salute.
-
+Hearing of his father's illness, Oden rushed to the capital
+and was relieved to see him in good health.
 
 352
 00:26:26,480 --> 00:26:31,150
-Tuttavia, questa sarebbe stata l'ultima volta
-che avrebbero mai scambiato parole.
-
+However, this would be the last time
+they ever exchanged words.
 
 353
 00:26:35,570 --> 00:26:37,660
-Sembra che questo posto sia abitato.
-
+It seems this place is inhabited.
 
 354
 00:26:38,080 --> 00:26:41,370
-Babbo, ci vorrà una settimana per ripararla.
-
+Pops, it'll take a week to repair it.
 
 355
 00:26:41,750 --> 00:26:44,040
-L'acqua ha danneggiato la maggior parte del carico!
-
+The water damaged most of the cargo!
 
 356
 00:26:44,420 --> 00:26:47,000
-Dobbiamo procurarci delle provviste.
-
+We need to procure supplies.
 
 357
 00:26:47,000 --> 00:26:48,670
-Chi vuole andare?!
-
+Who wants to go?!
 
 358
 00:26:48,670 --> 00:26:52,260
-Quasi tutti, visto che abbiamo
-bisogno di fare esercizio.
-
+Almost everyone since we all
+need some exercise.
 
 359
 00:26:57,390 --> 00:26:59,850
-Siamo risaliti lungo le cascate, vero?
-
+We climbed up the falls, right?
 
 360
 00:27:03,520 --> 00:27:06,980
-Perché qui ci sono il mare e un'isola?
-
+Why is there sea and an island here?
 
 361
 00:27:13,030 --> 00:27:15,490
-Abbiamo un problema, Messer Kanjuro!
-
+We have a problem, Sir Kanjuro!
 
 362
 00:27:16,780 --> 00:27:17,620
-Cos'è successo?
-
+What is it?
 
 363
 00:27:17,620 --> 00:27:20,240
-Calmati! Sei troppo rumoroso!
-
+Calm yourself! You are too loud!
 
 364
 00:27:20,240 --> 00:27:24,120
-Abbiamo ricevuto un rapporto che una nave pirata
-ha attraccato al Porto di Itachi!
-
+We received a report that
+a pirate ship docked at Itachi Port!
 
 365
 00:27:24,120 --> 00:27:25,330
-Pirati?!
-
+Pirates?!
 
 366
 00:27:30,090 --> 00:27:31,420
 Lord Oden!
 
-
 367
 00:27:31,420 --> 00:27:33,260
-Dove state andando?!
-
+Where are you going?!
 
 368
 00:27:33,260 --> 00:27:35,090
-Al porto!
-
+To the port!
 
 369
 00:27:36,590 --> 00:27:39,100
-Eccomi! Eccomi!
-
+Here I go! Here I go!
 
 370
 00:27:40,510 --> 00:27:43,180
-Va bene, andiamo a prendere delle provviste.
-
+Alright, we'll go fetch some supplies.
 
 371
 00:27:43,180 --> 00:27:45,100
-Vengo anch'io!
-
+I'm coming, too!
 
 372
 00:27:45,100 --> 00:27:46,100
-Non puoi.
-
+You can't.
 
 373
 00:27:46,100 --> 00:27:47,980
-Sei solo un apprendista!
-
+You're just an apprentice!
 
 374
 00:27:47,980 --> 00:27:49,560
-Non dire così!
-
+Don't say that!
 
 375
 00:27:49,560 --> 00:27:52,360
-Babbo! Posso andare?
-
+Pops! Can I go?
 
 376
 00:27:52,360 --> 00:27:53,990
-Fai come vuoi.
-
+Do as you like.
 
 377
 00:27:54,780 --> 00:27:57,860
-Bene! Andiamo!
-
+All right! Let's go!
 
 378
 00:27:55,450 --> 00:27:57,860
-Sbrigatevi! Sbrigatevi!
-
+Hurry up! Hurry up!
 
 379
 00:27:57,860 --> 00:27:59,990
-Ho detto niente apprendisti!
-
+I said no apprentices allowed!
 
 380
 00:27:59,990 --> 00:28:00,990
-Restate qui!
-
+Stay here!
 
 381
 00:28:01,370 --> 00:28:02,490
-Cosa?!
-
+What?!
 
 382
 00:28:02,490 --> 00:28:04,790
-Lord Oden è andato al porto?!
-
+Lord Oden went to the port?!
 
 383
 00:28:05,870 --> 00:28:07,540
-Perché l'avete lasciato andare?!
-
+Why did you let him go?!
 
 384
 00:28:07,540 --> 00:28:09,830
-Ho sentito che c'è una nave pirata al Porto di Itachi!
-
+I heard there's a pirate ship at Itachi Port!
 
 385
 00:28:09,830 --> 00:28:11,210
-È anche insolita!
-
+It's unusual, too!
 
 386
 00:28:11,210 --> 00:28:13,500
-Dicono che è grande e i pirati sembrano duri!
-
+They say it's big and the pirates look tough!
 
 387
 00:28:14,130 --> 00:28:15,550
-Dobbiamo fermarlo!
-
+We must stop him!
 
 388
 00:28:15,550 --> 00:28:18,130
-È solo andato a cacciarli via, giusto?!
-
+He just went to chase them away, right?!
 
 389
 00:28:18,130 --> 00:28:19,390
-Improbabile!
-
+Not likely!
 
 390
 00:28:19,390 --> 00:28:21,010
-Sono sicuro che sapete...
-
+I am sure you know about...
 
 391
 00:28:21,680 --> 00:28:23,350
-del sogno di Lord Oden!
-
+Lord Oden's dream!
 
 392
 00:28:27,850 --> 00:28:31,020
-Quella è una nave pirata?!
-
+Is that a pirate ship?!
 
 393
 00:28:31,020 --> 00:28:33,020
-Ho aspettato...
-
+I have been waiting...
 
 394
 00:28:33,780 --> 00:28:36,190
-questo momento!
-
+for this moment!
 
 395
 00:28:37,990 --> 00:28:39,360
-Ecco i guai.
-
+Here comes trouble.
 
 396
 00:28:41,070 --> 00:28:43,080
-Ehi, tutti voi! Indietro!
-
+Hey, all of you! Stand back!
 
 397
 00:28:43,080 --> 00:28:43,870
-– Cosa?
-– Cosa?
-
+– What?
+– What?
 
 398
 00:28:44,410 --> 00:28:46,540
-Sta arrivando qualcosa!
-
+Something's coming!
 
 399
 00:28:46,540 --> 00:28:48,620
-Qualcosa di impensabile!
-
+Something unthinkable!
 
 400
 00:28:48,620 --> 00:28:50,210
-Ben fatto!
-
+Well done!
 
 401
 00:28:50,540 --> 00:28:55,880
-Avete superato il tempo terribile
-e le cascate! Davvero impressionante!
-
+You made it past the terrible weather
+and waterfalls! Quite impressive!
 
 402
 00:29:11,100 --> 00:29:16,190
-Vi stavo aspettando, pirati!
-
+I have been waiting for you, pirates!
 
 403
 00:29:34,040 --> 00:29:36,460
-Sei davvero qualcosa di speciale!
-
+You are really something else!
 
 404
 00:29:37,130 --> 00:29:38,630
-Te la farò pagare!
-
+I'll make you pay for that!
 
 405
 00:29:40,840 --> 00:29:43,760
-Fatti sotto, moccioso!
-
+Bring it on, you punk!
 
 406
 00:30:12,960 --> 00:30:16,000
-Stavo aspettando qualcuno come te!
-
+I have been waiting for someone like you!
 
 407
 00:30:16,500 --> 00:30:19,090
-Il mio nome è Kozuki Oden!
-
+My name is Kozuki Oden!
 
 408
 00:30:19,090 --> 00:30:21,760
-Non so chi tu sia,
-ma ti prego, concedimi...
-
+I do not know who you are,
+but please allow me...
 
 409
 00:30:22,180 --> 00:30:23,630
-di salire sulla tua nave!
+to ride on your ship!
+

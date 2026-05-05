@@ -9,11 +9,28 @@
 - Oden
 - Ulti, Page One, Briscola, Daifugo, O-Tama, O-Toko
 - Hera (Homie), Zeus
+- Vegapunk (Stella), York, Shaka, Lilith, Edison, Pythagoras, Atlas (satelliti di Vegapunk)
+- Sentomaru, Kizaru, Alber
+- Shanks (Red-Haired Shanks / Shanks dai Capelli Rossi)
+- Kid, Killer (Pirati di Kid)
+- Dorry, Brogy (giganti di Elbaph)
+- Hongo (membro dell'equipaggio di Shanks)
+- Tashigi (Marine, subordinata di Smoker)
+- Hibari (Marine, membro della SWORD)
+- Pizarro (Pirata di Barbanera)
+- Vasco Shot (Pirata di Barbanera)
+- Wolf / San Juan Wolf (Pirata di Barbanera)
+- Moria / Gecko Moria
+- Bepo (Pirati del Cuore, membro Mink)
+- Prince (nome in codice SWORD)
+- Shiryu / Shiryu of the Rain (Pirata di Barbanera, ex boia di Impel Down)
+- Brannew (Commodoro della Marina)
 
 ## Titoli / Appellativi
 | Inglese | Italiano |
 |---|---|
 | Big Boss | Grande Boss |
+| Red Hair / Red-Haired (riferito a Shanks) | Capelli Rossi |
 | Young Master | Giovane Maestro |
 | Lord (+ nome) | Lord (invariato) |
 | Viceroy Kaido | Viceré Kaido |
@@ -26,15 +43,32 @@
 | Conqueror of Three Worlds | Conquistatore dei Tre Mondi |
 | Cat Burglar | Ladra di Gatti |
 | Kamazo the Slasher | Kamazo il Massacratore |
+| Old Man Punk | Vecchio Punk (soprannome di Vegapunk Stella) |
+| Hawk Eye | Hawk Eye (soprannome di Mihawk, invariato) |
+| Uncle Kizaru | Zio Kizaru |
+| Iron Garp | Garp di Ferro |
+| Legendary Hero | Eroe Leggendario |
+| Hero of the Marines | Eroe della Marina |
+| Vice Admiral | Viceammiraglio |
+| Rear Admiral | Contrammiraglio |
+| Lieutenant Commander | Tenente Comandante |
+| Commodore | Commodoro |
 
 ## Gruppi / Fazioni (non tradurre i seguenti)
 - Big Mom Pirates
 - Beast Pirates
+- Kid Pirates → Pirati di Kid
 - Minks
 - Germa 66
 - Pleasures
 - Waiters
 - Gifters
+- CP0, CP5, CP7, CP8 (Cipher Pol, invariati)
+- Cipher Pol Aigis 0 (invariato)
+- Cross Guild (invariato)
+- SWORD (gruppo speciale Marine, invariato)
+- Heart Pirates → Pirati del Cuore
+- S-Snake, S-Hawk, S-Bear (serafini, invariati)
 
 ## Gruppi / Fazioni (tradurre)
 | Inglese | Italiano |
@@ -45,6 +79,7 @@
 | Nine Red Scabbards | Nove Foderi Rossi |
 | Red Scabbards | Foderi Rossi |
 | Gifters Elite Corps | Corpo d'élite dei Gifters |
+| Five Elders | Cinque Anziani |
 
 ## Luoghi
 | Inglese | Italiano |
@@ -60,6 +95,17 @@
 | Performance Floor | Piano delle Esibizioni |
 | Okobore Town | Okobore Town (invariato) |
 | Performance Floor Stage | Palco del Piano delle Esibizioni |
+| Egghead | Egghead (invariato) |
+| Labophase | Labophase (invariato) |
+| Punk Hazard | Punk Hazard (invariato) |
+| Mary Geoise / The Holy Land | La Terra Santa, Mary Geoise |
+| Elbaph | Elbaph (invariato, terra dei giganti) |
+| Frontier Dome | Frontier Dome (invariato, cupola difensiva di Egghead) |
+| Pirate Island | Isola dei Pirati |
+| Beehive / Beehive Island | Alveare (covo di Barbanera) |
+| Future Island | Isola del Futuro |
+| New World | Nuovo Mondo |
+| South Blue | South Blue (invariato) |
 
 ## Tecniche / Mosse (non tradurre)
 - Gomu-Gomu no
@@ -100,6 +146,29 @@
 - Weather Egg
 - Lightning Blast
 - Ulti-Mortar
+- Shave (tecnica Marine)
+- Tempest Kick
+- White Thunder
+- One-Sword Style Draw
+- Lethal Lion Song
+- Hand Pistol
+- Yellow Lotus
+- Kong Organ
+- Tumult
+- Thunderbolt (tecnica di Nami con Zeus)
+- Raw Heat Strike (tecnica di Sanji)
+- Weapons Left (tecnica di Franky)
+- Perfume Femur (tecnica di S-Snake / Boa Hancock)
+- Love-Love Mellow (tecnica di S-Snake / Boa Hancock)
+- Hawk Gatling (tecnica di Luffy Gear 5)
+- Red Hawk (tecnica di Luffy)
+- Divine Departure (tecnica di Shanks)
+- Galaxy Divide (tecnica di Garp)
+- Honesty Impact (tecnica di Koby)
+- Glorp Web (tecnica di Grus)
+- Drunken Spitfire (tecnica di Vasco Shot)
+- Pirate Fireballs
+- Ice Glove (tecnica di Kuzan/Aokiji)
 
 ## Tecniche / Mosse (tradurre)
 | Inglese | Italiano |
@@ -112,12 +181,21 @@
 | Inglese | Italiano |
 |---|---|
 | Transponder Snail | Lumacofone |
+| Road Poneglyph / lode poneglyph | Road Poneglifo |
+| Blackbeard | Barbanera |
 | Rumble Ball | Rumble Ball (invariato) |
 | Marys / Mary | Mary |
 | Klima Takt | Klima Takt (invariato) |
 | Black Kabuto | Black Kabuto (invariato) |
 | Kibi Dango | Kibi Dango (invariato) |
 | Fire Festival | Festival del Fuoco |
+| Isle-Isle Fruit | Frutto dell'Isola (frutto di Avalo Pizarro) |
+| Mother Flame | Fiamma Madre |
+| Celestial Dragon | Drago Celeste |
+| Vegaforce-01 | Vegaforce-01 (invariato) |
+| wiretapper snail | Lumacofone da intercettazione |
+| Six Powers | Sei Tecniche |
+| Punk Records | Punk Records (invariato) |
 
 ## Tecniche aggiuntive (non tradurre)
 - Black Light Roast
@@ -137,14 +215,64 @@
 | Raccoon Dog / Raccoon dog | Tanuki |
 | Kikunojo of the Fallen Snow | Kikunojo della Neve Cadente |
 | Spread-the-News Mode | Modalità Diffusione Notizie |
+| Helmet | Elmo (soprannome di Shaka) |
 
 ## Luoghi aggiuntivi
 | Inglese | Italiano |
 |---|---|
 | Castle interior Third floor | Interno del Castello - Terzo Piano |
 | First floor Crawl space | Primo Piano - Intercapedine |
+| Red Port | Porto Rosso |
+| God Valley | God Valley (invariato) |
+| Empty Bluffs Island | Isola delle Scogliere Vuote |
+| Kingdom of Lulusia | Regno di Lulusia |
+| Kingdom of Eigis | Regno di Eigis |
+| Kingdom of Tajine | Regno di Tajine |
+
+## Termini Reverie / Politica mondiale
+| Inglese | Italiano |
+|---|---|
+| Reverie | Reverie (invariato) |
+| Warlords / Warlord System | Corsari / Sistema dei Corsari |
+| Holy Knights | Cavalieri Sacri |
+| First Twenty | Primi Venti |
+| Lower Realm | Mondo Inferiore |
+| Ancient Weapon(s) | Arma/Armi Antica/Antiche |
+| Mother Flame | Mother Flame (invariato, arma di Vegapunk/Imu) |
+| St. / Saint (Drago Celeste) | Santo / Santa |
+| Fleet Admiral | Ammiraglio della Flotta |
+| Revolutionary Army | Esercito Rivoluzionario |
+| relay call | chiamata in relè |
+| regicide | regicidio |
+| fishmen / fish-men | Uomini-Pesce |
+| Nerona dynasty | dinastia Nerona |
 | Marys | Mary (invariato, nome delle spie di Bao Huang) |
 | Homies | Homies (invariato) |
+
+## Terminologia Egghead (tradurre)
+| Inglese | Italiano |
+|---|---|
+| Lunarian / lunarian | Lunare |
+| Seraphim (pl.) | Serafini |
+| Seraph (sing.) | Serafino |
+| Void Century | Secolo Vuoto |
+| Celestial Dragon | Drago Celeste |
+| Bubble gun | Sparabolle |
+| Sanjitution | Sanjituzione |
+| Egghead Incident | Incidente di Egghead |
+| Lost Chamber | Camera Perduta |
+| First Twenty | Primi Venti |
+| Revolutionary Army | Esercito Rivoluzionario |
+| Warlord of the Sea | Signore della Guerra |
+| Ryugu Kingdom | Regno di Ryugu |
+| Conference Tower | Torre delle Conferenze |
+
+## Tecniche (egghead_16)
+| Inglese | Italiano |
+|---|---|
+| Fire Fist | Pugno di Fuoco (appellativo/mossa di Ace) |
+| Rook Check | Scacco alla Torre (mossa di Sabo) |
+| Tontatta Combat Eight-Impact Fist Secret Technique: Drill Dragon / Tail Hammer / Nail | Combattimento Tontatta — Tecnica Segreta del Pugno degli Otto Impatti: Drago Trivella / Martello di Coda / Chiodo |
 
 ## Tecniche / Mosse episodio 62
 - Ulti-Mortar (Ulti) — invariato
@@ -158,11 +286,34 @@
 
 ## Note di stile episodio 62
 - "meowt" (Nekomamushi) → tradotto con "miao" in coda alla frase
+
+## Note di stile egghead_18
+- Pizarro usa cat-puns in inglese ("mew", "meowch", "hisstory") → adattati in italiano con "miao" inserito nelle parole o in coda alla frase
+- "under-meow-stimate" → "miao-ttovalutare"
+- "hisstory" → "miaoistoria"
+- "mew" (= you) → "miao" in coda alla frase
+- "Meowch" → "Miauch"
 - "ook" (Bariete, scimmia) → invariato
 - Big Mom chiamata "O-Lin-san" quando ha perso la memoria → invariato
 - Zeus-senpai → invariato (Hera si rivolge a Zeus con rispetto gerarchico)
 | Homies | Homies (invariato) |
 | Sea Stone | Pietra Marina |
+
+## Termini egghead_20 (tradurre)
+| Inglese | Italiano |
+|---|---|
+| weaponized sea beasts | bestie marine militarizzate |
+| Sabaody Archipelago | Arcipelago di Sabaody |
+| Invincible Slave Kuma | Kuma lo Schiavo Invincibile |
+| Kuma the Tyrant | Kuma il Tiranno |
+| power plant | centrale elettrica |
+| Fabriophase | Fabriophase (invariato) |
+
+## Tecniche egghead_20 (non tradurre)
+- Sacred Yasakani Jewel (Kizaru)
+- Hellhound (Akainu)
+- Steam Knuckle (Atlas)
+- Black Mamba (Luffy, Gear 5)
 | Smile Fruits / SMILE | Frutti SMILE |
 | ryuo | ryuo (invariato) |
 | haki dell'armamento | haki dell'armamento |
@@ -200,5 +351,135 @@
 | Sweet Entanglement | Dolce Intreccio |
 | TO BE CONTINUED | CONTINUA |
 
+## Termini Egghead ep. 15 (tradurre)
+| Inglese | Italiano |
+|---|---|
+| Bombastic Clown | Clown Bombastico |
+| Eight-Nation Revolution | Rivoluzione degli Otto Paesi |
+| Holy Knights | Cavalieri Sacri |
+| Flame Emperor | Imperatore delle Fiamme |
+| Pangaea Castle | Castello di Pangaea |
+| Unity Courtyard | Cortile dell'Unità |
+| Kingdom of Lulusia | Regno di Lulusia |
+| Revolutionary Army | Esercito Rivoluzionario |
+| King Cobra | Re Cobra |
+| Saint + nome (Drago Celeste) | Santo + nome (es. Santo Rosward, Santo Pluming) |
+| Reverie / World Conference | Reverie / Conferenza Mondiale (invariato) |
+
+## Personaggi ep. 15 (non tradurre)
+- Sabo, Dragon, Iva (Ivankov), Koala, Morley, Lindbergh
+- Chaka, Pell, Vivi, Shirahoshi
+- T-Bone (Vice Ammiraglio), Tsuru, Hina, Kujaku
+- Charlos, Rosward (Nobili Mondiali)
+
 ## Suffissi onorifici (non tradurre)
 - -san, -chan, -sama, -kun
+
+## Personaggi Egghead (non tradurre)
+- Vegapunk (stella / Dr. Vegapunk)
+- Shaka, Lilith, Edison, Pythagoras, Atlas, York (satelliti di Vegapunk)
+- Bonney (Jewelry Bonney)
+- Sentomaru
+- Joshu
+- Stussy
+- Kaku
+- Lucci (Rob Lucci)
+- Kuma (Bartholomew Kuma)
+- Helmeppo
+- Koby
+- Doll (Vice Ammiraglio)
+- Garp (Vice Ammiraglio Garp)
+- Kid (Eustass Kid)
+
+## Termini Egghead (non tradurre)
+- Frontier Dome
+- Labophase
+- Vegaforce-01
+- CP0 / Cipher Pol
+- MADS
+- Seraphim / serafini (tradurre: serafini)
+- bondola
+
+## Termini Egghead (tradurre)
+| Inglese | Italiano |
+|---|---|
+| Frontier Dome | Frontier Dome (invariato) |
+| Labophase | Labophase (invariato) |
+| stella | stella (appellativo di Vegapunk, invariato) |
+| satellite(s) | satellite/i (dei Vegapunk) |
+| seraphim | serafini |
+| Pirate Island / Beehive | Isola dei Pirati, Beehive |
+| Land of the Gods | Terra degli Dèi |
+| Vice Admiral | Vice Ammiraglio |
+| Warlord | Signore della Guerra |
+| Celestial Dragons | Draghi Celesti |
+| Red Line | Red Line (invariato) |
+| Mary Geoise | Mary Geoise (invariato) |
+| Elbaph | Elbaph (invariato) |
+
+## Tecniche Egghead (non tradurre)
+- Tempest Kick / Sky Slicer (Zoro)
+- Nose Pistol / Kiliman-Gyro (Lucci — forma giraffa)
+- Distorted Future (Bonney)
+- Age Skewer (Bonney)
+- Oiled Shock (Stussy)
+- Ursus Shock (S-Bear)
+- Love-Love Mellow (S-Snake / Boa Hancock)
+- Galaxy Impact (Garp)
+- Blue Hole (Aokiji)
+- Cumulo-glorpus (effetto shockwave)
+
+## Tecniche Egghead (tradurre)
+| Inglese | Italiano |
+|---|---|
+| Purgatorial Oni Giri (Zoro) | Purgatorio Oni Giri |
+| Gum-Gum Six King Kong Gun | Gomma-Gomma Sei Re Kong Gun |
+| Ice Ball (Aokiji) | Sfera di Ghiaccio |
+
+## Termini Egghead aggiuntivi (ep. 11)
+| Inglese | Italiano |
+|---|---|
+| camsnail | lumaca-telecamera |
+| Helmet (Luffy's nickname for Shaka) | Elmo |
+| Dice-Dice Fruit | Frutto Taglia-Taglia |
+| baldy (nickname for Daz Bonez / Mr. 1) | il Pelato |
+| bubble gun | pistola a bolle |
+| organoid | organoide |
+| dom shoes | dom shoes (invariato) |
+| New World | Nuovo Mondo |
+| Marine Branch G-9 | Ramo Marino G-9 |
+| lode poneglyphs / Road Poneglyphs | poneglyph direzionali |
+| Chief (Shanks) | Capo |
+| Red Hair (Shanks' epithet) | Capelli Rossi |
+| Emperor Red Hair | Imperatore Capelli Rossi |
+
+## Note di stile Egghead
+- "-quasar" suffisso parlato di Vegapunk (stella) → mantenuto invariato in coda alla frase
+- "Sanji-phim" / "Swirly-phim" → invariati (giochi di parole con "seraphim")
+- "Blackbeard" → "Barbanera"
+- "goody two-shoes" → "santarellino"
+- "whippersnappers" → "pivelli"
+- "Zoro-phim" → "Zoro-fino" | "Green-aphim" → "Verde-fino" | "swirly-phim" → "ricciolo-fino" | "where-aphim" → "dove-fino"
+- "Old Man Punk" (appellativo di Vegapunk) → "Vecchio Punk"
+- "apple gramps" (appellativo di Vegapunk/Stella usato da Luffy) → "nonno mela"
+- "Iceboss" (appellativo di Aokiji/Kuzan) → "Capo del Ghiaccio"
+- "Summit War" → "Guerra Suprema"
+- "World Economic News" → "Giornale Economico Mondiale"
+- "camsnails" (lumache di sorveglianza) → "lumache-telecamera"
+- "hover boots" → "stivali a levitazione"
+- "Morgy" (soprannome di Morgans usato da Vivi) → invariato
+- "Whitebeard" → "Barbabianca"
+- "Paper Art: Afterimage!" (tecnica CP0) → invariato
+- doppelgänger → doppelgänger (invariato)
+- "Moss Head" / "Moss-head" (appellativo di Zoro) → "Testa di Muschio"
+- Sphinx (isola di Barbabianca) → Sphinx (invariato)
+- Egghead / Future Island → "Egghead" / "Isola del Futuro"
+- Weevil / Edward Weevil → invariato
+- Ryokugyu (Ammiraglio Marina) → invariato
+- "Ice Pop" (soprannome di Aokiji) → "Ghiacciolo"
+- "Burn Scar" (personaggio misterioso) → "Cicatrice da Ustione"
+- "Op-Op Fruit" → "Frutto Op-Op"
+- "Polar Tang" (sottomarino dei Pirati del Cuore) → invariato
+- "Winner Island" → "Winner Island" (invariato)
+- "Rocky Port" → "Rocky Port" (invariato)
+- "five-star bounty" → "taglia a cinque stelle"

@@ -298,7 +298,7 @@ Anche noi sappiamo poco al riguardo!
 
 74
 00:07:09,030 --> 00:07:10,580
-Non è il Frutto Gomma-Gomma?
+Non è il Frutto Gom-Gom?
 
 75
 00:07:15,210 --> 00:07:17,580
@@ -318,7 +318,7 @@ No, no! Anche se lo dici...
 
 79
 00:07:26,340 --> 00:07:29,050
-Dice sempre "Gomma-Gomma".
+Dice sempre "Gom-Gom".
 
 80
 00:07:32,350 --> 00:07:36,140
@@ -670,15 +670,15 @@ Avrebbe dovuto pensare prima di agire!
 
 164
 00:12:45,370 --> 00:12:47,620
-Gomma-Gomma...
+Gom-Gom...
 
 165
 00:12:49,370 --> 00:12:50,210
-Alba...
+Dawn...
 
 166
 00:12:51,170 --> 00:12:53,130
-Pistola!
+Pistol!
 
 167
 00:12:59,010 --> 00:13:00,470
@@ -839,15 +839,15 @@ non possiamo controllare i serafini!
 
 205
 00:16:18,920 --> 00:16:21,750
-Gomma-Gomma...
+Gom-Gom...
 
 206
 00:16:25,010 --> 00:16:26,760
-Alba...
+Dawn...
 
 207
 00:16:28,840 --> 00:16:31,390
-Frusta!
+Whip!
 
 208
 00:16:40,770 --> 00:16:41,690
@@ -1179,15 +1179,15 @@ Fastidioso!
 
 287
 00:24:17,690 --> 00:24:20,270
-Gomma-Gomma...
+Gom-Gom...
 
 288
 00:24:22,860 --> 00:24:24,400
-Alba...
+Dawn...
 
 289
 00:24:31,070 --> 00:24:34,540
-Razzo!
+Rocket!
 
 290
 00:24:37,410 --> 00:24:39,870

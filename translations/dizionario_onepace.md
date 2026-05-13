@@ -97,6 +97,8 @@
 | Performance Floor Stage | Palco del Piano delle Esibizioni |
 | Egghead | Egghead (invariato) |
 | Labophase | Labophase (invariato) |
+| Fabriophase | Fabriofase (sezione inferiore di Egghead) |
+| Scrap Heap | Rottamiera (sublocalità nella Fabriofase) |
 | Punk Hazard | Punk Hazard (invariato) |
 | Mary Geoise / The Holy Land | La Terra Santa, Mary Geoise |
 | Elbaph | Elbaph (invariato, terra dei giganti) |
@@ -196,6 +198,7 @@
 | wiretapper snail | Lumacofone da intercettazione |
 | Six Powers | Sei Tecniche |
 | Punk Records | Punk Records (invariato) |
+| Dom shoes | Dom shoes (invariato, calzature magnetiche di Egghead) |
 
 ## Tecniche aggiuntive (non tradurre)
 - Black Light Roast
@@ -203,6 +206,7 @@
 - River of Retribution
 - Candy Shower Apocalypse
 - Diable Jambe Rotisserie Strike
+- Digestion Punch (tecnica di York)
 
 ## Tecniche aggiuntive (tradurre)
 | Inglese | Italiano |
@@ -216,6 +220,11 @@
 | Kikunojo of the Fallen Snow | Kikunojo della Neve Cadente |
 | Spread-the-News Mode | Modalità Diffusione Notizie |
 | Helmet | Elmo (soprannome di Shaka) |
+| Shaka the Just | Shaka il Giusto |
+| York the Greedy | York la Golosa |
+| The World's Premier Brain | Il Cervello Più Grande del Mondo (titolo di Vegapunk Stella) |
+| Head of the Marines' Special Science Group | Capo del Gruppo Speciale di Scienze della Marina |
+| -quasar (tic verbale di Vegapunk Stella) | -quasar (invariato, es. "Aiutatemi-quasar!") |
 
 ## Luoghi aggiuntivi
 | Inglese | Italiano |
@@ -228,6 +237,14 @@
 | Kingdom of Lulusia | Regno di Lulusia |
 | Kingdom of Eigis | Regno di Eigis |
 | Kingdom of Tajine | Regno di Tajine |
+
+## Frutti del Diavolo (Pirati di Barbanera — arco Egghead)
+| Inglese | Italiano |
+|---|---|
+| Sick-Sick Fruit | Frutto della Malattia |
+| Warp-Warp Fruit | Frutto del Teletrasporto |
+| Strong-Strong Fruit | Frutto della Forza |
+| Horse-Horse Fruit: Pegasus Mythical Type | Frutto del Cavallo: Pegaso Tipo Mitico |
 
 ## Termini Reverie / Politica mondiale
 | Inglese | Italiano |

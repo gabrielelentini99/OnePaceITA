@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:30,070 --> 00:01:31,900
 L'Ammiraglio Kizaru è sbarcato!
 
@@ -799,7 +799,7 @@ senza mente né libero arbitrio...
 
 196
 00:19:47,330 --> 00:19:51,170
-Pacifisti e tutti i Marines, continuate a sparare!
+Pacifisti e tutti i Marine, continuate a sparare!
 
 197
 00:19:51,960 --> 00:19:54,720

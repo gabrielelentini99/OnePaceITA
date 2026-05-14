@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:37,290 --> 00:01:41,460
 Scappa pure, ma non puoi nasconderti!
 
@@ -383,7 +383,7 @@ Poi, dopo essersi unito all'Esercito Rivoluzionario,
 
 92
 00:10:22,810 --> 00:10:26,650
-le Marine lo arrestarono
+i Marine lo arrestarono
 e gli diedero l'ergastolo.
 
 93

@@ -1,6 +1,6 @@
-1
+﻿1
 00:01:31,150 --> 00:01:33,820
-Una figura amata sia dai Marines che dai cittadini,
+Una figura amata sia dai Marine che dai cittadini,
 
 2
 00:01:33,820 --> 00:01:39,250
@@ -9,7 +9,7 @@ la morte in servizio del Vice Ammiraglio T-Bone
 
 3
 00:01:39,250 --> 00:01:43,210
-Tuttavia, i Marines non hanno mai rivelato
+Tuttavia, i Marine non hanno mai rivelato
 la causa della sua morte.
 
 4
@@ -36,7 +36,7 @@ che hai giurato di proteggere ti pugnalano alle spalle?
 
 9
 00:02:00,140 --> 00:02:02,600
-Una volta che vengono messe taglie sui Marines,
+Una volta che vengono messe taglie sui Marine,
 
 10
 00:02:03,100 --> 00:02:06,730
@@ -152,11 +152,11 @@ Certo che li ha ricevuti!
 35
 00:03:30,610 --> 00:03:36,320
 Sei la mente criminale che ha eliminato
-nientemeno che un Vice Ammiraglio del Quartier Generale dei Marines!
+nientemeno che un Vice Ammiraglio del Quartier Generale dei Marine!
 
 36
 00:03:39,660 --> 00:03:43,290
-Ho sentito che i Marines
+Ho sentito che i Marine
 sono andati fuori di testa quel giorno!
 
 37
@@ -328,7 +328,7 @@ Cross Guild è stata eccellente.
 
 76
 00:05:34,810 --> 00:05:38,860
-È ora che i Marines
+È ora che i Marine
 si accorgano della minaccia che rappresentiamo.
 
 77
@@ -1115,7 +1115,7 @@ Avete sicuramente attirato l'attenzione del mondo.
 265
 00:16:28,180 --> 00:16:33,060
 Grazie al fatto che avete tenuto impegnata
-la maggior parte delle forze dei Marines,
+la maggior parte delle forze dei Marine,
 
 266
 00:16:33,060 --> 00:16:39,140

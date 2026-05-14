@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:07,150 --> 00:00:09,860
 Anche se il mondo non la accetterà...
 
@@ -49,7 +49,7 @@ Fa un male cane.
 
 13
 00:02:21,620 --> 00:02:25,080
-Non ascolti i Marines, Lucci?
+Non ascolti i Marine, Lucci?
 
 14
 00:02:26,500 --> 00:02:29,340
@@ -940,7 +940,7 @@ Bartholomew Kuma è apparso!
 
 225
 00:15:08,140 --> 00:15:10,390
-Tutti i Marines, dirigetevi nell'area!
+Tutti i Marine, dirigetevi nell'area!
 
 226
 00:15:19,360 --> 00:15:23,280

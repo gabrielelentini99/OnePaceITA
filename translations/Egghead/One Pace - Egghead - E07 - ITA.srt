@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:35,490 --> 00:01:37,950
 Che figata! Guardate un po', ragazzi!
 
@@ -1020,7 +1020,7 @@ Cosa succede?!
 
 243
 00:15:53,470 --> 00:15:56,440
-Le Marine lo hanno ancora
+I Marine lo hanno ancora
 sotto il loro controllo?!
 
 244

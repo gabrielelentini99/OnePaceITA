@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:08,780 --> 00:00:13,540
 Per secoli, la nostra legge ha severamente
 vietato agli uomini di entrare.
@@ -14,7 +14,7 @@ e la città ha subito gravi danni.
 
 4
 00:00:23,420 --> 00:00:27,010
-Se resto qui, le Marine torneranno.
+Se resto qui, i Marine torneranno.
 
 5
 00:00:27,010 --> 00:00:29,130
@@ -111,7 +111,7 @@ Sono venuto per te, Imperatrice dei Pirati!
 
 28
 00:02:21,080 --> 00:02:24,920
-Non lascerò che le Marine abbiano
+Non lascerò che i Marine abbiano
 il potere del tuo frutto del diavolo!
 
 29
@@ -209,7 +209,7 @@ Hancock!
 
 51
 00:04:02,510 --> 00:04:06,020
-Noi, le Marine, preferiremmo
+Noi, i Marine, preferiremmo
 evitare spargimenti di sangue!
 
 52
@@ -488,7 +488,7 @@ i miei uomini, così?
 
 118
 00:09:43,850 --> 00:09:47,940
-Deve trasformare anche le nostre Marine!
+Deve trasformare anche la nostra Marina!
 
 119
 00:09:48,570 --> 00:09:52,450
@@ -545,7 +545,7 @@ Quelle perdite sarebbero troppo grandi!
 
 132
 00:10:53,090 --> 00:10:56,140
-Sapevo che le Marine avrebbero assediato qui...
+Sapevo che i Marine avrebbero assediato qui...
 
 133
 00:10:58,680 --> 00:11:01,770
@@ -630,7 +630,7 @@ le Cinture della Calma non sono più sicure.
 
 152
 00:12:49,750 --> 00:12:51,880
-L'assedio delle Marine.
+L'assedio della Marina.
 
 153
 00:12:51,880 --> 00:12:54,340
@@ -660,7 +660,7 @@ battere Barba Nera in uno scontro diretto.
 
 159
 00:13:28,950 --> 00:13:33,580
-Quindi le Marine credevano che quelle nuove armi...
+Quindi i Marine credevano che quelle nuove armi...
 
 160
 00:13:34,040 --> 00:13:39,360
@@ -810,7 +810,7 @@ Quello è il covo dei nostri nemici, idiota!
 
 194
 00:15:36,210 --> 00:15:38,630
-Pensi di affrontare il Quartier Generale delle Marine?!
+Pensi di affrontare il Quartier Generale della Marina?!
 
 195
 00:15:38,630 --> 00:15:39,840

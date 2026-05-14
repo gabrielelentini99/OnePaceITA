@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:13,700 --> 00:00:16,540
 Che razza di capitano sei!
 
@@ -489,7 +489,7 @@ Cosa vuoi, Crocodile?
 
 120
 00:07:58,370 --> 00:08:02,290
-Le Marine stanno circondando
+I Marine stanno circondando
 quest'isola proprio in questo momento.
 
 121
@@ -516,7 +516,7 @@ Ora sei solo un pirata come gli altri.
 
 126
 00:08:18,190 --> 00:08:21,770
-Le Marine si muovono in fretta in momenti come questi.
+I Marine si muovono in fretta in momenti come questi.
 
 127
 00:08:22,570 --> 00:08:26,110
@@ -540,7 +540,7 @@ Non sembra così male, vero?
 
 132
 00:08:41,290 --> 00:08:46,630
-Se ci unissimo, le Marine non
+Se ci unissimo, i Marine non
 prenderebbero alla leggera la nostra organizzazione.
 
 133
@@ -582,7 +582,7 @@ Andate a combattere!
 
 142
 00:09:17,700 --> 00:09:19,660
-Avete paura delle Marine?!
+Avete paura dei Marine?!
 
 143
 00:09:20,120 --> 00:09:22,500
@@ -660,7 +660,7 @@ Non ho i soldi per ripagarlo!
 
 161
 00:10:45,790 --> 00:10:48,130
-È più spaventoso delle Marine!
+È più spaventoso dei Marine!
 
 162
 00:10:52,550 --> 00:10:54,380
@@ -883,7 +883,7 @@ Il collegamento tra Crocodile e Mihawk
 214
 00:13:44,010 --> 00:13:47,680
 Diversi gruppi loschi stanno già
-investendo nella "caccia alle Marine".
+investendo nella "caccia ai Marine".
 
 215
 00:13:47,690 --> 00:13:52,900

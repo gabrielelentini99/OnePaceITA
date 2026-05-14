@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:37,540 --> 00:01:42,420
 Ora che sono a bordo di questa nave,
 immagino sia anche un mio problema!
@@ -278,7 +278,7 @@ Voi cretini ve ne pentirete tutti!
 
 68
 00:05:44,030 --> 00:05:48,540
-Quando il Quartier Generale delle Marine
+Quando il Quartier Generale della Marina
 verrà a sapere, sarete tutti impalati!
 
 69

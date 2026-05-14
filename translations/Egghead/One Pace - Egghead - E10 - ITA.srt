@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:36,410 --> 00:01:38,490
 Non riesco a capirci niente.
 
@@ -535,7 +535,7 @@ Io però non avevo paura!
 
 132
 00:10:13,090 --> 00:10:15,890
-I Marines sono apparsi all'improvviso!
+I Marine sono apparsi all'improvviso!
 
 133
 00:10:15,890 --> 00:10:17,930
@@ -559,7 +559,7 @@ Ascolta, ascolta!
 
 138
 00:10:27,610 --> 00:10:30,190
-I Marines erano orribili!
+I Marine erano orribili!
 
 139
 00:10:30,190 --> 00:10:33,280
@@ -763,7 +763,7 @@ Abbiamo bisogno di rinforzi!
 
 187
 00:13:40,130 --> 00:13:44,090
-E poi i Marines che stavano invadendo
+E poi i Marine che stavano invadendo
 il villaggio sono scappati!
 
 188
@@ -1091,7 +1091,7 @@ La vostra missione è garantirne la partenza sicura!
 
 266
 00:20:12,730 --> 00:20:15,070
-I Marines si stanno comportando in modo strano!
+I Marine si stanno comportando in modo strano!
 
 267
 00:20:15,990 --> 00:20:17,490

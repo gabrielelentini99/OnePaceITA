@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:05,900 --> 00:00:07,240
 Rob Lucci!
 
@@ -65,7 +65,7 @@ Uno scontro potrebbe portare alla guerra.
 
 17
 00:00:51,570 --> 00:00:53,830
-Riferite subito alle Marine.
+Riferite subito ai Marine.
 
 18
 00:00:53,830 --> 00:00:54,580
@@ -176,7 +176,7 @@ pianificato in anticipo.
 
 44
 00:04:16,530 --> 00:04:20,240
-Di' a Lucci di aspettare l'arrivo delle Marine.
+Di' a Lucci di aspettare l'arrivo della Marina.
 
 45
 00:04:20,240 --> 00:04:21,160
@@ -1123,7 +1123,7 @@ qualcosa di più forte di loro!
 
 273
 00:21:38,280 --> 00:21:41,070
-Sono essenzialmente le armi delle Marine...
+Sono essenzialmente le armi della Marina...
 
 274
 00:21:41,070 --> 00:21:41,820
@@ -1422,7 +1422,7 @@ Quindi...
 
 347
 00:28:41,120 --> 00:28:45,450
-Le Marine ci hanno detto di aspettare il loro arrivo.
+I Marine ci hanno detto di aspettare il loro arrivo.
 
 348
 00:28:45,450 --> 00:28:47,540

@@ -1,4 +1,4 @@
-1
+﻿1
 00:01:31,530 --> 00:01:34,030
 Novecento anni fa...?
 
@@ -54,7 +54,7 @@ la tua casa, Ohara...
 
 13
 00:02:17,950 --> 00:02:21,830
-fu distrutta da un buster call delle Marine.
+fu distrutta da un buster call della Marina.
 
 14
 00:02:22,710 --> 00:02:23,790
@@ -302,7 +302,7 @@ in cerca di testi correlati.
 
 71
 00:05:36,360 --> 00:05:40,950
-Le Marine lo arrestarono e imprigionarono
+I Marine lo arrestarono e imprigionarono
 non meno di dieci volte...
 
 72
@@ -384,7 +384,7 @@ rischiarono la vita...
 
 89
 00:06:51,930 --> 00:06:56,980
-delle Marine ignoranti non ne avrebbero capito
+dei Marine ignoranti non ne avrebbero capito
 il valore nemmeno trovandoli.
 
 90
@@ -805,7 +805,7 @@ un'organizzazione enorme.
 
 189
 00:12:48,870 --> 00:12:52,000
-Le Marine, in particolare,
+I Marine, in particolare,
 sono piene di persone ragionevoli.
 
 190
